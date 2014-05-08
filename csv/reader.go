@@ -1,7 +1,7 @@
 //
 // CsvFileReader
 //
-// Use to read CSV files and convert them to our JSON format.
+// Used to read CSV files.
 //
 // Copyright 2014 TLD dotHIV Registry GmbH.
 // @author Markus Tacker <m@dotHIV.org>
