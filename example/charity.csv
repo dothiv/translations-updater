@@ -1,0 +1,1372 @@
+about,Code,Text Deutsch,Text Englisch,Link
+0a),header.bar.projecthead,Projekte,Projects,
+0a),header.bar.aboutHIV,Über dotHIV,About dotHIV,http://hiv.enit.biz/#!/about
+0a),header.bar.registerurl,Domain registrieren,Register Domain,
+0b),home.pinkbar.notactivated,,,
+0c) ,home.about.oneclick.headline,Klicken,Click,
+0c),home.about.oneclick.text,Wir präsentieren: der gute Klick! Jeder Klick auf eine Seite mit .hiv-Endung unterstützt den Kampf gegen Aids mit einer Mikrospende. So tust du gemeinsam mit dem Betreiber der Website Gutes! ,We present: the good Click! Every click on a .hiv website triggers a microdonation for the fight aigainst HIV and AIDS. That is your possibiliy to lin up wit website operators and do something good. ,
+0c) ,home.about.vote.headline,Voten,Vote,
+0c),home.about.vote.text,"Du klickst das Geld frei – also kannst du auch entscheiden, an welches Projekt es geht. Wir unterstützen HIV Projekte weltweit beim Kampf gegen AIDS und helfen so, Leben zu retten. Hilf auch du mit und gib den Projekten deine Stimme.",Your click activates the money - so you can also decide where it goes. We support HIV projects around the world in their fight against AIDS and by that help to save lifes. You can help aswell: give the projects your vote.,
+0c),home.about.share.headline,Teilen,Share,
+0c),home.about.share.text,"Je mehr desto besser. Das ist der perfekte Slogan für .hiv. Je mehr Menschen .hiv kennen und nutzen, desto mehr Kraft bekommt es. Unterstütze uns dabei, .hiv bekannt zu machen.",The more the merrier! This is the perfect slogan for .hiv. The more people know about .hiv the more power it gains. Help us to make .hiv as popular as possible!,
+0d) ,home.who.headline,Über dotHIV,About dotHIV,
+0d),home.who.text,"dotHIV bringt die Domainendung .hiv als digitale Rote Schleife ins Internet. Zum ersten mal in der Geschichte des Internets nutzen wir eine Top Level Domain für einen rein sozialen Zweck: das Ende von AIDS! Erfahrt hier mehr über die Mission, das Ziel und den Beitrag von dotHIV im Kampf gegen AIDS. ","dotHIV brings the domainending .hiv to the Internet - as the digital Red Ribbon. For the first time in the history of the Internet a Top Level Domain is designed solely for a social cause: the end of AIDS! get to know more about our Mission, the Goal and the contribution of dotHIV in the fight against AIDS.",
+0d),home.who.votefor,Für ein Projekt voten,Vote for a Project,
+0d),home.who.yourpage,Deine .hiv Domain,Your .hiv Domain,
+0d),home.who.howto,Wie stelle ich ein Projekt ein?,How to upload a Project,
+0e) ,home.vote.headline,Wohin geht das Geld?,Where does the money go?,
+0e),home.vote.allprojects,Alle anzeigen,Show all,
+0e),home.vote.header,"Gib deinem Klick eine Stimme! Mit dem Geld aus dem Domainverkauf unterstützen wir HIV und AIDS Projekte auf der ganzen Welt. Und du entscheidest, welches Projekt gefördert wird. Hier ist eine Übersicht aller Projekte. ","Give your click a voice! With the money from the doamin sale we support HIV and AIDS projects all around the world. And you decide, which projects get funded. You can have look at all projects here.",
+0f) ,Projekte,Projekte,Projects,
+0g),home.firms.headline,Diese Unternehmen sind dabei,These companies are on board,
+0g),home.firms.allfirms,Ganze Liste ansehen,See all,
+0h),home.quotes.headline,Was andere sagen:,What others say,
+0h),home.quotes.allquotes,Mehr,More,
+0i) ,home.partners.headline,Unsere Partner,Our partners,
+0j) ,footer.adress.name,dothiv gemeinnütziger e.V.,dotHIV geimeinnütziger e.V.,
+0j) ,footer.adress.street,Lehmbruckstraße 3,Lehmbruckstraße 3,
+0j) ,footer.adress.city,10245 Berlin ,10245 Berlin ,
+0j) ,footer.adress.phone,0049 (0)30 91564707,0049 (0)30 91564707,
+0j) ,header.menu.reportabuse,Etwas melden,Report something,
+0j) ,footer.navi.help,Hilfe,Help,
+0j),footer.navi.forum,Forum,Forum,
+0j) ,footer.navi.contact,Kontakt,Contact,
+oj),footer.navi.impressum,Impressum,Impressum,
+0j) ,footer.navi.terms,Nutzungsbedingungen/Datenschutz,Terms of Use/Privacy policy,
+0j),footer.navi.privacy,Datenschutz,Privacy policy,
+0j) ,footer.social.facebook,Facebook,Facebook,
+0j) ,footer.social.twitter,Twitter,Twitter,
+0j) ,footer.social.pinterest,Pinterest,Pinterest,
+1a),home.pinkbar.activated,,,
+1b),home.pinkbar.popover.currentStatus,,,
+1b),home.pinkbar.popover.areActivated,,,
+1b),home.pinkbar.popover.missing,,,
+1c),home.pinkbar.popover.sharenow,,,
+1c),home.pinkbar.popover.chooseDomainButtonLabel,,,
+1c),home.pinkbar.popover.schreNowButtonLabel,,,
+1d),home.pinkbar.popover.viewVideo,,,
+1d),home.pinkbar.popover.how,,,
+2.1),header.pinkbar.aboutHIV,,,
+2.1a),about.breadcrumb.mission,Die Mission,The Mission,
+2.1a),about.breadcrumb.about,Über dotHIV,About dotHIV,
+2.1a),about.breadcrumb.fororg,dotHIV für Engagierte,dotHIV for the HIV response,
+2.1a),about.breadcrumb.whoisbehind,Wer ist dotHIV,Who is dotHIV,
+2.1a),about.breadcrumb.getiactive,Werde Teil der Bewegung,Become part of the movement,
+2.1a),about.breadcrumb.news,News,News,
+2.1a),about.breadcrumb.registry,Die .hiv Regsistry,The .hiv Registry,
+2.1b),about.nav.mission,Die Mission,The Mission,
+2.1b),about.nav.goals,Das Ziel,The Goal,
+2.1b),about.nav.contribution,Der  Beitrag,The Contribution ,
+2.1b),about.nav.AIDS,HIV & Aids - die Situation,HIV & AIDS - The Situation,
+2.1b),about.nav.aboutHIV,Über dotHIV,About dotHIV,
+2.1b),about.nav.idea,Die Idee,The Idea,
+2.1b),about.nav.film,Der Film,The Movie,
+2.1b),about.nav.manifesto,Unser Mission Statement,Our Mission Statement,
+2.1b),about.nav.concept,Der gute Klick,The good Click,
+2.1b),about.nav.usage,Top .hiv Nutzungskonzepte,Top .hiv Utalization concept,
+2.1b),about.nav.moneyusage,Wohin geht das Geld,Where the money goes,
+2.1b),about.nav.history,Die Geschichte,The History,
+2.1b),about.nav.quotes,Zitate,Quotes,
+2.1b),about.nav.fororg,dotHIV für Engagierte,dotHIV for the HIV response,
+2.1b),about.nav.criteria,Unsere Förderrichtlinien,Our Funding Guidelines,
+2.1b),about.nav.charitydomains,Non-profit Domain,Non-profit Domain,
+2.1b),about.nav.apply,Non-profit Domain sichern,Get your Non-profit Domain,
+2.1b),about.nav.experts,Unser Experten Pool,Our Pool of Experts,
+2.1b),about.nav.whoisbehind,Wer ist dotHIV,Who is dotHIV,
+2.1b),about.nav.team,Team,Team,
+2.1b),about.nav.organization,Die Organisation im Überbick,Organigram ,
+2.1b),about.nav.partnersupporter,Partner & Supporter,Partner & Supporter,
+2.1b),about.nav.partner,Unsere Partner,Our Partners,
+2.1b),about.nav.supporter,Unserer Unterstützer,Our Supporters,
+2.1b),about.nav.policyca,Unser Beirat,Our Advisory Board,
+2.1b),about.nav.angels,Unsere Business Angel,Our Business Angels,
+2.1b),about.nav.heavystuff,Schwere Kost,Heavy stuff,
+2.1b),about.nav.getactive,Werde Teil von dotHIV,Become part of dotHIV,
+2.1b),about.nav.newsstream,Newsstream,Newsstream,
+2.1b),about.nav.registry,Die .hiv Regsistry,The .hiv Registry,
+2.1c),about.mission.headline,Die Mission,The Mission,
+2.1c),about.mission.text,"Der Kampf gegen AIDS steht dank großer Erfolge von Forschung und der Bemühungen von Aktivisten weltweit an einem entscheidenden Punkt. Erstmals in der Geschichte der Krankheit ist ein Ende von AIDS möglich. Zwei Dinge braucht es dafür: neue Gelder und eine verstärkte, internationale Aufmerksamkeit für das Thema. Genau hier setzt dotHIV an.","As a result of tremendous progress in science and thanks to the work of activists all around the world, the fight against AIDS is at a crucial point. For the first time in the  history of the disease an end of the AIDS is possible. Two things a essential to reach that goal: new money and boosted, international awareness for the topic. Thats where dotHIV approaches. ",
+2.1d),about.goals.headline,Das Ziel,Our Goal,
+2.1d),about.goals.text,".hiv soll dem Kampf gegen Aids neuen Schwung verleihen. Sie soll auf die Probleme im Feld HIV und Aids aufmerksam machen. Gleichzeit soll sie dran erinnern, dass ein Ende von AIDS in Sicht ist. Aber auch daran, dass der Kampf noch nicht gewonnen ist. Und dass wir ihn nur gewinnen können, wenn wir unsere Bemühungen verstärken und bündeln. Das ist das Ziel von .hiv.",".hiv will bring new momentum to the fight against AIDS. It is suppost to not only draw the attention to the problems in the field of HIV and AIDS, but to also remind people that the end of AIDS is in sight. At the same time it shall remind them that we haven’t won the fight against AIDS by now. And that we can only the fight  win if we reinforce and unite our efforts. That is what .hiv is going to do.",
+2.1e),about.contribution.headline,Unser Beitrag,Our Contribution ,
+2.1e),about.contribution.text,".hiv ist die erste und bisher einzige Domainendung in der Geschichte des Internets, die einem rein sozialen Zweck dient: dem Ende von AIDS. Wir nutzen die Dynamik des Domainmarkts um die Domainendung .hiv als digitale Rote Schleife ins Internet zu bringen. Damit erreichen wir 4 unterschiedliche Ziele:",.hiv ist the first and only domainending in the history of the Internet that serves a social purpose: the end of AIDS. We use the dynamics of the domain market to establish the domainending .hiv as the digital Red Ribbon. That way we achieve 4 different goals.,
+2.1e),about.contribution.dropdown,Mehr erfahren,Lern more,"Link, der das Layerfenster mit mehr text öffnet"
+2.1e),about.contribution.expand," 1. **Finanzielle Mittel:** .hiv Domains generieren Gelder, um HIV Organisationen weltweit zu unterstützen. 2. **Aufmerksamkeit:** .hiv Domains bringen das Thema HIV zurück ins Bewusstsein der Menschen. 3. **Kampf gegen Stigma:** .hiv Domains sind ein Zeichen der Solidarität mit denen, die von HIV betroffen sind. 4. **Netzwerk:** .hiv Domains erzeugen einen themengebundenen Raum im Internet und ein globales Netzwerk aus HIV Organisationen und Aktivisten.",1. **Financial Resources:** .hiv domains are generating money to support HIV organizations. 2. **Awareness:** .hiv domains are bringing the topic HIV back into peoples minds.3. **Fight the Stigma:** .hiv are a symbol of solidarity with those affected by HIV.4. **Network:** .hiv domains are creating a topic realted space within the Internet and a global network of HIV organizations and activists.  ,Layerfenster mit Anschlusstext
+2.1f),about.AIDS.headline,HIV & Aids - die Situation,HIV & AIDS - The Situation,
+2.1f),about.AIDS.text,"HIV und AIDS gehört zu einer der größten Herausforderungen unseres Zeitalters. Wir die einzigartige Möglichkeit zu besiegen, was bereits 28 Millionen Menschen das Leben gekostet hat. Aber auch wenn viele Fortschritte gemacht wurden seit die Krankheit in den 1980er Jahren das erste Mal in den USA aufgetaucht ist, bleibt viel zu tun. 34 Millionen Menschen sind HIV positiv und nur die Hälfte von ihnen hat Zugang zu Behandlung und Medikamenten. Seht euch hier die Entwicklung der Krankheit und seiner Bekämpfung der letzten 30 Jahren an.","HIV and AIDS is one of the biggest challenges of our era. We have the once in a livetime opportunity to beat what killed more than 28 million people. But although a lot of progress has been made ever since the disease first appeared in the USA in the 1980th, much remains to be done to beat the virus. Currently 34 Millionen people are infected with HIV and only half of them has access to tretament. Have a look at the history of the HIV and AIDS and the fight agianst it over the past 30 years.",
+2.1f),about.AIDS.dropdown,Mehr erfahren,Learn more,
+2.1f),about.AIDS.expand,"Die 1980er
+1981- Die ersten Fälle von Aids tauchen in den USA auf - nur weiß damals noch niemand, dass es sich um Aids handelt. Die Krankheit bekommt zunächst den Namen Gay-related immune deficiency (GRID).
+
+1982 - Da es sich bei den ersten Patienten um homosexuelle Männer handelt, kommt die erste HIV Organisation aus der Schwulenszene - Gay Men’s Health Crisis bildet sich in New York und besteht bis heute.
+
+1983 - Bereits ein Jahr später gründete sich in Berlin die Deutsche AIDS-Hilfe. Inzwischen sind 120 weitere, lokale Aids-Hilfen dazu gekommen.
+ 
+1986 - Bereits damals gab es erste Erfolge auf der Suche nach einer geeigneten Medikation bei einer HIV Infektion. Das bis dahin wirkungslos gegen Krebs eingesetzte Azidothymidin AZT zeigt Wirkung bei der Behandlung von HIV Patienten
+
+1987 - AZT wird zur Behandlung von HIV zugelassen und war zu diesem Zeitpunkt das teuerste verschreibungspflichtige Medikament der Welt. Die Behandlung eines HIV Patienten hat damals ca. 10.000 USD pro Jahr gekostet. 
+
+1988 - Die WHO erklärt den 1. Dezember zum Welt-Aids Tag. 
+
+Die 1990er
+
+1991 - Die Künstlergruppe Visual AIDS entwirft die Rote Schleife als internationales Symbol der Solidarität mit HIV Infizierten und an Aids Erkrankten. 
+
+1992 - 100.000 dieser Schleifen werden bei einem Konzert zu Gedenken des Queen Sängers Freddy Mercury verteilt - er war kurz zuvor an Aids gestorben. 
+
+1996 - Die UN ruft das Programm UNAIDS ins Leben, um die internationale Maßnahmen bezüglich der Infektionskrankheit zu bündeln. 
+
+1999 - Trotz all der Bemühungen erreicht die Krankheit einen traurigen Rekord und wird zur 4häufigsten Todesursache aller Zeiten.
+
+Ab 2000
+
+2002 - Als Reaktion auf die Pandemie wird der Global Fund zur Bekämpfung von Aids, Tuberkulose und Malaria ins Leben gerufen. 
+
+2003 - Die WHO veröffentlicht den Plan “3by5” mit dem Ziele, im Jahre 2005 3 Millionen Menschen in Entwicklungsländern mit antiretroviraler Therapie zu versorgen.
+
+2004 - Die UN veröffentlich einen Bericht, demzufolge HIV sich in Russland und Osteuropa schneller verbreitet, als irgendwo anders auf der Welt.
+
+2005 - der Sohn des südafrikanischen Freiheitskämpfers Nelson Mandela, Makgatho Mandela, stirbt an den Folgen von Aids. 
+
+2006 - Rocksänger Bono ruft die Marke RED ins Leben und unterstützt mit dem Verkauf von RED Artikeln den Global Fund. 
+
+2008 - Amerikanischer Senat und Repräsentantenhaus unterzeichnen den President’s Emergency Plan for AIDS. Das Einreiseverbot für HIV Positive wird jedoch erst zwei Jahre später, nach über 22 Jahren, aufgehoben. 
+
+2009 - UNAIDS und die WHO veröffentlichen einen Bericht demzufolge die Zahl der HIV Infizierten mit Zugang zu Behandlung haben innerhalb eines Jahres um 36,% gestiegen ist.
+
+2011 - der Global Fund muss aus mangelnder Finanzierung durch Geberländer die 11. Vergaberunde streichen.
+
+Quellen:
+Avert: 
+http://www.avert.org/hiv-aids-history.htm
+Deutsche Aids Hilfe:
+http://www.aidshilfe.de/de/faq/chronik
+ondamaris:
+http://www.ondamaris.de/?page_id=1109 
+
+","The 1980ies 
+1981- The first cases of AIDS appeare in the USA - just that back than nobody knew that it iswas AIDS. At first AIDS was called Gay-related immune deficiency (GRID), also known as gay cancer.
+
+1982 - Because of the fact that the first AIDS patient were all gay men, the first HIV organization grew out of the gay scene - Gay Men's Health Crisis was found in New York and continues even today.
+
+1983 - Only one year later the Deutsche AIDS-Hilfe was found in Berlin. Until today 120 local AIDS-Hilfen where add.
+ 
+1986 - The first Bereits damals gab es erste Erfolge auf der Suche nach einer geeigneten Medikation bei einer HIV Infektion. Das bis dahin wirkungslos gegen Krebs eingesetzte Azidothymidin AZT zeigt Wirkung bei der Behandlung von HIV Patienten
+
+1987 - AZT wird zur Behandlung von HIV zugelassen und war zu diesem Zeitpunkt das teuerste verschreibungspflichtige Medikament der Welt. Die Behandlung eines HIV Patienten hat damals ca. 10.000 USD pro Jahr gekostet. 
+
+1988 - The World Health Organization declared Deszember 1st as World-AIDS-Day.  
+
+Die 1990ies
+
+1991 - The artist group Visual AIDS designed the Red Ribbon as an international symbol of solidarity with people living with and affected by HIV and AIDS. 
+
+1992 - 100.000 of these ribbons a distributed during a Freddy Mercury tribute concert. The leadsinger of the band Queen died of AIDS shortly before that. 
+
+1996 - The UN starts their UNAIDS program to combine th einternational measures against HIV and AIDS. 
+
+1999 - despite all efforts the disease reaches a sad record and becomes the fourth major cause of death of all times.
+
+Since 2000
+
+2002 - As a reaction to the pandemic the Global Fund to fight AIDS, tuberculosis and malaria was created.
+
+2003 - The WHO published the ""3by5"" plan with the goal to provie 3 million people in devloping countries by 2005. 
+
+2004 - UNO released a report whereby HIV is spreading faster in Russia and Eastern Europe faster than anywhere else in the world.  
+
+2005 -  Makgatho Mandela, the son of the south african freedom fighter Nelcon Mandela, dies of AIDS. 
+
+2006 - Rockstar Bono initiates the brand RED and supports the Global Fund through the sale of the products.
+
+2008 - the amercian senat and the House of Representatives signed the President's Emergency Relief Plan forAIDS. But the entry ban for people Living with HIV was abolished only two years later - after a period of 22 years. 
+
+2009 - UNAIDS and the WHO published a report whereby the number of HIV+ people with access to treatment have gone up by 36%.
+
+2011 - the Global Fund had ti cancel its 11th round of funding because of declining financial contributions of the donor countries.
+
+Quellen:
+Avert: 
+http://www.avert.org/hiv-aids-history.htm
+Deutsche Aids Hilfe:
+http://www.aidshilfe.de/de/faq/chronik
+ondamaris:
+http://www.ondamaris.de/?page_id=1109 
+
+",
+2.1f),about.AIDS.pictute1,,,Foto
+2.1f),about.AIDS.picture2,,,Foto
+2.1f),about.AIDS.facts.headline,Daten & Fakten,Facts & Ficures,
+2.1f),about.AIDS.facts.text,"Hier findet ihr einige Daten und Fakten zur momentan Situation im Bereich HIV und AIDS. Falls ihr mehr Faktenwissen haben möchtet, haben wir euch noch ein paar Links zu Seiten zusammengetsellt, die einen guten Überblick bieten.","Here you can find some facts and figures about the current situation of HIV and AIDS around the world. If you want to learn more, we also assembled a couple of links that outline the most important facts.",
+2.1f),about.AIDS.facts.dropdown,Mehr erfahren,Learn more,
+2.1f),about.AIDS.facts.expand,"·           Zahl der HIV-Infizierten weltweit:
+34.2 Millionen
+ 
+·           Zahl der HIV-Neuinfizierungen im Jhar 2012:
+2.3 Millionen
+ 
+·           Zahl der AIDS-Toten:
+1.7 Millionen
+ 
+·           Zahl der HIV-positiven Kinder unter 15 Jahren:
+3.4 Millionen
+ 
+·           Rückgang der HIV Infizierungen in 10 Jahren (2001-2011): 21%
+ 
+·           HIV-Infizierte, die lebensnotwendige ART erhielten:
+8 Millionen
+ 
+·           Kosten für ART pro Jahr/Kopf:
+200 USD
+ 
+·           Versorgung mit ART in unterschiedlichen Regionen
+-        Sub-Sahara Afrika: 56%
+-        Lateinamerika: 70%
+-        Karibik: 67%
+-        Osteuropa/Zentralasien: 23%
+-        Nordafrika: 13%
+ 
+·           Kinder, deren Eltern an AIDS gestorben sind weltweit:
+17.3 Millionen
+ 
+·           Anzahl HIV-positiver, schwangerer Frauen: 
+1.5 Millionen
+ 
+·           Davon Frauen, denen ART zur Verfügung stand:
+57%
+ 
+·           Global geleistet Ausgaben zur Bekämpfung von HIV/AIDS: 
+16.8 Milliarden USD
+ 
+·           Jährlich fehlende Gelder zur HIV/AIDS-Bekämpfung laut UNAIDS:
+7 Milliarden USD
+ 
+ 
+ 
+Wusstet ihr schon?
+ 
+·           HIV/AIDS ist weltweit die häufigste Todesursache für Frauen im gebärfähigen Alter.
+ 
+·           63% aller jungen Erwachsenen (zwischen 15 und 24), die mit HIV leben, sind Frauen.
+ 
+·           Jeden tag stecken sich weltweit 2400 junge Erwachsene im Alter zwischen 15 und 24 Jahren mit HIV an.
+ 
+·           Eine funktionierende medikamentöse HIV Therapie bedeutet, dass die Ansteckungsgefahr um 96% sinkt.
+ 
+·           Nach wie vor erhalten alleine im südlichen Afrika 7 Millionen HIV-Infizierte keine Behandlung, weil sie nicht um ihren HIV Status wissen
+ 
+·           In Zentralasien und Osteuropa hat sich die Zahl der HIV Infizierten seit 2001 verdreifacht.
+ 
+·           Täglich stecken sich nach wie vor 1000 Kinder mit HIV an.
+ 
+
+
+Verlinkungen
+
+UNAIDS Report on the global AIDS Epidemic 2012:
+http://www.unaids.org/en/media/unaids/contentassets/documents/epidemiology/2012/gr2012/20121120_UNAIDS_Global_Report_2012_with_annexes_en.pdf 
+ 
+UNAIDS: Together we will end AIDS
+http://www.unaids.org/en/media/unaids/contentassets/documents/epidemiology/2012/20120718_togetherwewillendaids_en.pdf
+
+UNAIDS: 2012 Progress reports submitted by countries
+http://www.unaids.org/en/dataanalysis/knowyourresponse/countryprogressreports/2012countries/ 
+
+
+
+
+Verlinkungen
+Hintergrundinformationen zum Virus – was ist das HI-Virus, wie breitet es sich aus, wie entwickelt es sich, wie steckt man sich an und wie nicht, was mache ich, wenn ich HIV+ bin usw. sind hier als PDF-Downloads hinterlegt. 
+
+Auf englisch:
+ 
+namaidsmap.com:
+http://www.aidsmap.com/hiv-basics/HIV-AIDS/page/1412437/
+ 
+thebody.com:
+http://www.thebody.com/content/art49930.html
+ 
+Auf deutsch:
+
+gib-aids-keine-chance.de:
+http://www.gib-aids-keine-chance.de/wissen/hiv_aids.php
+
+aidshilfe.de:
+http://www.aidshilfe.de/de/faq/chronik 
+
+","·           Number of people living with HIV worldwide:
+35.2 Millionen
+ 
+·           People newly infected with HIV in 2012:
+2.3 Millionen
+ 
+·           AIDS death in 2012:
+1.6 Millionen
+ 
+·           Number of people living with HIV under 15 in 2012:
+3.3 Millionen
+ 
+ 
+·          Number of people receiving treatmemnt (ART) in 2012:
+9,7 Millionen
+ 
+·           Expensses for ART peryear/per capita:
+200 USD
+ 
+·        Provision with ART in different regions:
+-        Sub-saharan Africa: 56%
+-        Latinamerica: 70%
+-        Caribbean: 67%
+-        Eastern Europe/Central Asia: 23%
+-        Northern Africa: 13%
+ 
+·          Number of Children that lost one or both parent(s) to AIDS:
+17.3 Millionen
+ 
+·           Anzahl HIV-positiver, schwangerer Frauen: 
+1.5 Millionen
+ 
+·           Davon Frauen, denen ART zur Verfügung stand:
+57%
+ 
+·           Global geleistet Ausgaben zur Bekämpfung von HIV/AIDS: 
+16.8 Milliarden USD
+ 
+·           Jährlich fehlende Gelder zur HIV/AIDS-Bekämpfung laut UNAIDS:
+7 Milliarden USD
+ 
+ 
+ 
+Wusstet ihr schon?
+ 
+·           HIV/AIDS ist weltweit die häufigste Todesursache für Frauen im gebärfähigen Alter.
+ 
+·           63% aller jungen Erwachsenen (zwischen 15 und 24), die mit HIV leben, sind Frauen.
+ 
+·           Jeden tag stecken sich weltweit 2400 junge Erwachsene im Alter zwischen 15 und 24 Jahren mit HIV an.
+ 
+·           Eine funktionierende medikamentöse HIV Therapie bedeutet, dass die Ansteckungsgefahr um 96% sinkt.
+ 
+·           Nach wie vor erhalten alleine im südlichen Afrika 7 Millionen HIV-Infizierte keine Behandlung, weil sie nicht um ihren HIV Status wissen
+ 
+·           In Zentralasien und Osteuropa hat sich die Zahl der HIV Infizierten seit 2001 verdreifacht.
+ 
+·           Täglich stecken sich nach wie vor 1000 Kinder mit HIV an.
+ 
+
+
+Verlinkungen
+
+UNAIDS Report on the global AIDS Epidemic 2012:
+http://www.unaids.org/en/media/unaids/contentassets/documents/epidemiology/2012/gr2012/20121120_UNAIDS_Global_Report_2012_with_annexes_en.pdf 
+ 
+UNAIDS: Together we will end AIDS
+http://www.unaids.org/en/media/unaids/contentassets/documents/epidemiology/2012/20120718_togetherwewillendaids_en.pdf
+
+UNAIDS: 2012 Progress reports submitted by countries
+http://www.unaids.org/en/dataanalysis/knowyourresponse/countryprogressreports/2012countries/ 
+
+
+
+
+Verlinkungen
+Hintergrundinformationen zum Virus – was ist das HI-Virus, wie breitet es sich aus, wie entwickelt es sich, wie steckt man sich an und wie nicht, was mache ich, wenn ich HIV+ bin usw. sind hier als PDF-Downloads hinterlegt. 
+
+Auf englisch:
+ 
+namaidsmap.com:
+http://www.aidsmap.com/hiv-basics/HIV-AIDS/page/1412437/
+ 
+thebody.com:
+http://www.thebody.com/content/art49930.html
+ 
+Auf deutsch:
+
+gib-aids-keine-chance.de:
+http://www.gib-aids-keine-chance.de/wissen/hiv_aids.php
+
+aidshilfe.de:
+http://www.aidshilfe.de/de/faq/chronik 
+
+",
+2.1f),about.AIDS.link1,,,Graphik mit Link dahinter
+2.1f),about.AIDS.link2,,,Graphik mit Link dahinter
+2.1f),about.AIDS.link3,,,Graphik mit Link dahinter
+2.2a),about.whoisbehind.headline,,,Unser Film
+2.2a),about.whoisbehind.film,"Über dotHIV
+",About dotHIV,
+2.2b),about.whoisbehind.manifesto.headline,dotHIV - Das Mission Statement,dotHIV - The Mission Statement,
+2.2b),about.whoisbehind.manifesto.popup,Lies unser Mission Statment,Read our Mission Statment,
+,about.whoisbehind.manifesto.middle1,"dotHIV is a Social Enterprise.
+With the domain-ending “.hiv”, we implant the fight against AIDS in the DNA of the Internet. 
+We join forces with all those who are active in the global HIV response. 
+As an organization, we are mission driven. Our work is based on values. We are committed to continuous learning
+as we are working in an innovative field of technology with a new approach to fight AIDS. 
+We sell .hiv-domains to raise awareness, reduce HIV-related stigma and financially support the 
+initiatives of the AIDS response. We believe in the power of networks and in bottom-up approaches. 
+Together, we will establish .hiv as the digital Red Ribbon. ","dotHIV is a Social Enterprise.
+With the domain-ending “.hiv”, we implant the fight against AIDS in the DNA of the Internet. 
+We join forces with all those who are active in the global HIV response. 
+As an organization, we are mission driven. Our work is based on values. We are committed to continuous learning
+as we are working in an innovative field of technology with a new approach to fight AIDS. 
+We sell .hiv-domains to raise awareness, reduce HIV-related stigma and financially support the 
+initiatives of the AIDS response. We believe in the power of networks and in bottom-up approaches. 
+Together, we will establish .hiv as the digital Red Ribbon. ",
+2.2b),about.whoisbehind.manifesto.left,".hiv – the Top-Level Domain. 
+.hiv is:
+An open, global technical infrastructure. 
+To support all diverse communities. 
+A place for free expression. 
+Ready to be filled with life. 
+An innovative, decentralized network. 
+That tackles a global problem with local power. 
+What is .hiv? 
+The digital Red Ribbon! 
+Who is .hiv? Everyone! 
+Together, we will ignite even more. 
+.hiv creates an Internet with a bigger meaning: 
+A web with a purpose. 
+At the service of anyone who shares our goal: 
+The end of AIDS.",".hiv – the Top-Level Domain. 
+.hiv is:
+An open, global technical infrastructure. 
+To support all diverse communities. 
+A place for free expression. 
+Ready to be filled with life. 
+An innovative, decentralized network. 
+That tackles a global problem with local power. 
+What is .hiv? 
+The digital Red Ribbon! 
+Who is .hiv? Everyone! 
+Together, we will ignite even more. 
+.hiv creates an Internet with a bigger meaning: 
+A web with a purpose. 
+At the service of anyone who shares our goal: 
+The end of AIDS.",
+,about.whoisbehind.manifesto.right," dotHIV – the charitable organization. 
+dotHIV is: 
+Transparent and mission-driven.
+Ready to forge new paths.
+Bundling the power of the AIDS response.
+To give the fight a new momentum.
+Not a service organization. 
+But a booster for aid organizations. 
+We stand for a new perception. 
+And encourage communication without using fear. 
+We eliminate outdated prejudices. 
+With empathy instead of pity. 
+In touch with our communities,
+here is what we want to do:
+Open minds and power small initiatives.
+Give HIV a new visibility on the web.
+Together, behind the same goal:
+The end of AIDS. "," dotHIV – the charitable organization. 
+dotHIV is: 
+Transparent and mission-driven.
+Ready to forge new paths.
+Bundling the power of the AIDS response.
+To give the fight a new momentum.
+Not a service organization. 
+But a booster for aid organizations. 
+We stand for a new perception. 
+And encourage communication without using fear. 
+We eliminate outdated prejudices. 
+With empathy instead of pity. 
+In touch with our communities,
+here is what we want to do:
+Open minds and power small initiatives.
+Give HIV a new visibility on the web.
+Together, behind the same goal:
+The end of AIDS. ",
+,about.whoisbehind.manifesto.middle2,Because .hiv (Logo) makes helping easy: click.,Because .hiv (Logo) makes helping easy: click.,
+2.2c),about.concept.headline,Der gute Klick,The good click,
+2.2c),about.concept.text,Tue etwas gutes mit jdem Klick - das ist das Grundprinzip von .hiv. Erfahre hier wie wir Gelder einnehmen und sie weitergeben. Wie funktinoert das Klick-Prinzip? Wie das Voting-Prinzip? Finde es hier raus.,Do something good with every click -  that is the basic principle of .hiv. Here you can find out how we raise money and we distribute it. Learn how the click process and the voting process work.,
+2.2c),about.concept.graphic,,,
+2.2c),about.concept.dropdown,Mehr erfahren,Learn more,
+2.2c),about.concept.expand,"Eine .hiv-Website kann entweder als Hauptwebsite oder Schwester-Seite einer bekannten Seite genutzt werden: User haben das gleiche Resultat auf pepsi.com und pepsi.hiv – ein Klick auf eine .hiv-Seite leitet auf die Standard-Homepage weiter. Und in beiden Fällen tut ein Klick etwas Gutes: Jeder Besuch einer .hiv-Website löst eine Mikrospende aus.
+Die Spenden sind durch den Domain-Verkauf finanziert: Der größte Teil des Preises jeder verkauften .hiv-Adresse ist für soziale Zwecke reserviert. Natürlich können Unternehmen ihr Engagement durch weitere fundraising-Kampagnen auf .hiv-Seiten erweitern. Also, kurz gesagt: Das Betreiben und Verkaufen von Domains füllt einen wachsenden Spendentopf, den die Internet-User mit jedem Klick auf eine .hiv-Domain aktivieren.
+Dieses Prinzip macht dem Kampf gegen Aids zu einer gemeinsamen Sache: Website-Betreiber und Internet-User erwecken die .hiv-Domains zum Leben.
+
+",,
+2.2d),about.usage.headline,"Top .hiv-Nutzungskonzepte
+",Top .hiv use concepts,
+2.2d),about.usage.text,".hiv Domains bieten viel Raum für Kreativität, die gleichzeitig einem guten Zweck dient. Ob spezielle Inhalte auf .hiv Seiten, besondere Aktionen zum Welt-AIDS-Tag oder Kampagnen die .hiv von der online in die offline Welt tragen. Hier findet ihr Nutzungskonzepte, die .hiv auf ganz besondere Art und Weise Leben einhauchen.",".hiv domains offer a lot of space for creativity, that serves a good cause at the same time. Whether it is special content on .hiv webpages, special prommotion on World-AIDS-Day or campagnes that bring .hiv from the online to the world offline. Have a look at some concepts, taht are using a very unique way to bring .hiv to life.",
+2.2d),about.usage.link1,,,
+2.2d),about.usage.claim1,,,
+2.2d),aboute.usage.link2,,,
+2.2d),about.usage.claim2,,,
+2.2d),about.usage.link3,,,
+2.2d),about.usage.claim3,,,
+2.2e),about.moneyusage.headline,Wohin geht das Geld,Where does the money go?,
+2.2e),about.moneyusage.text,"dotHIV verfolgt mit seiner Arbeit ein ganz klares Ziel: einen gesicherten Zugang zu Behandlung und HIV Medikamenten! Daher vergeben wir Geld ausschließlich an Organisationen, die sich für dieses Ziel einsetzten. Diese Organisationen haben die Möglichkeit sich und ihre Projekte auf unserer Online-Plattform zum Voting zu stellen. Welche Projekte schließlich gefördert werden, entscheidet der User durch seine Stimme. Schau dir an, welche Projekte aktuell zum Voting stehen.Schau dir an, welche Projekte bereits von uns gefördert wurden. 
+","dotHIV pursues on firm goal: access to treatment for people living with HIV. That is why we solely support organizations that pursue the same goal. We give them the opportunity to present their projects and their funding needs on our online platform so that users can vote for their favorite projects. The user votes decide which project gets funded. 
+Have a look at the projects that you can currently vote for.Have a look at the projects that have already been funded.",
+2.2e),about.moneyusage.link,Umgesetzte Projekte,Implemented projects,
+2.2f),about.history.headline,Geschichte von dotHIV,The history of dotHIV,
+,about.history.text,"Überall dieselbe alte Leier. Das Layout ist fertig, der Text lässt auf sich warten. Damit das Layout nun nicht nackt im Raume steht und sich klein und leer vorkommt, springe ich ein: der Blindtext. Genau zu diesem Zwecke erschaffen, immer im Schatten meines großen Bruders »Lorem Ipsum«, freue ich mich jedes Mal, wenn Sie ein paar Zeilen lesen. Denn esse est percipi - Sein ist wahrgenommen werden. Und weil Sie nun schon die Güte haben, mich ein paar weitere Sätze lang zu begleiten, möchte ich diese Gelegenheit nutzen, Ihnen nicht nur als Lückenfüller zu dienen, sondern auf etwas hinzuweisen, das
+
+
+",,
+2.2f),about.history.dropdown,Mehr erfahren,Learn more,
+2.2f),about.history.expand,"Überall dieselbe alte Leier. Das Layout ist fertig, der Text lässt auf sich warten. Damit das Layout nun nicht nackt im Raume steht und sich klein und leer vorkommt, springe ich ein: der Blindtext. Genau zu diesem Zwecke erschaffen, immer im Schatten meines großen Bruders »Lorem Ipsum«, freue ich mich jedes Mal, wenn Sie ein paar Zeilen lesen. Denn esse est percipi - Sein ist wahrgenommen werden.
+
+Und weil Sie nun schon die Güte haben, mich ein paar weitere Sätze lang zu begleiten, möchte ich diese Gelegenheit nutzen, Ihnen nicht nur als Lückenfüller zu dienen, sondern auf etwas hinzuweisen, das es ebenso verdient wahrgenommen zu werden: Webstandards nämlich. Sehen Sie, Webstandards sind das Regelwerk, auf dem Webseiten aufbauen. So gibt es Regeln für HTML, CSS, JavaScript oder auch XML; Worte, die Sie vielleicht schon einmal von Ihrem Entwickler gehört haben. Diese Standards sorgen dafür, dass alle Beteiligten aus einer Webseite den größten Nutzen ziehen. Im Gegensatz zu früheren Webseiten müssen wir zum Beispiel nicht mehr zwei verschiedene Webseiten für den Internet Explorer und einen anderen Browser programmieren. Es reicht eine Seite, die - richtig angelegt - sowohl auf verschiedenen Browsern im Netz funktioniert, aber ebenso gut für den Ausdruck oder
+
+",,
+2.2g),about.quotes.headline,Was andere sagen,What others say,
+2.2g),about.quotes.quote1.picture,,,
+2.2g),about.quotes.quote1.text,"“An dotHIV gefällt mir besonders gut, dass es nicht einfach nur eine Top-Level Domain ist. Es ist ein großartiges Werkzeug für Unternehmen, NGOs und Menschen, die Unterstützung zeigen und Verantwortung übernehmen wollen.”
+
+
+","“What I like about dotHIV is that it’s not only a Top-Level Domain. It’s also a great tool for companies, NGOs and individuals who want to show support and responsibility.”",
+2.2g),about.quotes.quote1.name,"Raul Krauthausen
+Raul Krauthausen ist Sozialunternehmer, Gründer von wheelmap.org und Ashoka fellow.
+
+","Raul Krauthausen
+Raul Krauthausen is a social entrepreneur, the founder of wheelmap.org and Ashoka fellow",
+2.2g),about.quotes.quote2.picture,,,"Bild mit Link hinterlegt 
+"
+2.2g),about.quotes.quote2.text,"“Ich liebe diese Idee. Das ist genau die Art von Kreativität, die wir brauchen.”
+
+
+
+","""I love the idea. That's the kind of creativity we need""",
+2.2g),about.quotes.quote2.name,"Dr. Brian Brinks
+Dr. Brian Brinks ist Board Member und Vertreter des Private Sectors beim Global Fund","Dr. Brian Brinks
+Dr. Brian Brinks is Board Member and representative of the Private Sectors at Global Fund",
+2.2g),about.quotes.quote3.picture,,http://www.iwwit.de/ – http://www.welt-aids-tag.de/,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote3.text,"Ich finde dotHIV großartig, weil es dem Thema HIV/Aids einen eigenen Raum im Internet gibt. Es erreicht vor allem junge Menschen – eine der wichtigsten Zielgruppen für Prävention und wird so dabei helfen, gemeinsam das Blatt zu wenden.”","“I think dotHIV is great, because it will give the topic of HIV/AIDS
+ a dedicated space on the Internet. It reaches young people – one of the
+ main target groups for prevention and will thereby help to turn the 
+tide together.”",
+2.2g),about.quotes.quote3.name,"Marcel ist ein 23 Jahre alter Aktivist und aktiver Internetuser. Als ein HIV+ Botschafter für Kampagnen wie ”I know what I’m doing” und ”Living together in a positive way”, ist er ein Mitglied des größten deutschen HIV-Vereinigung Deutsche Aids Hilfe","Marcel Dams
+Marcel is a 23 year old activist in the field of HIV and an active 
+Internet user. As an HIV+ ambassador for the campaigns “I know what I’m 
+doing” and “Living together in a positive way”, he is a member of the 
+biggest German HIVassociation Deutsche Aids Hilfe.
+",
+2.2g),about.quotes.quote4.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote4.text,"“Ihr habt meine Unterstützung!”
+
+
+","""You have my support""",
+2.2g),about.quotes.quote4.name,"Fadi Chehadé
+Vorstandsvorsitzender der ICANN.
+
+","Fadi Chehadé
+CEO of ICANN.
+
+",
+2.2g),about.qoutes.quote5.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote5.text,"“HIV ist immer noch ein Problem für viele Menschen – und ich meine nicht die, die HIV-positiv sind. Es gibt so viel Ausgrenzung und Angst. dotHIV hilft dabei, diese Vorurteile zu bekämpfen und das hilft denen, die unter HIV leiden. Eine wirklich gute Idee.”
+
+",“HIV still is a problem for many people – and I mean the people who are not HIV-positive. There is so much isolation and fear. dotHIV helps fighting those prejudices and this really helps the people who suffer from HIV. A very good idea.”,
+2.2g),about.quotes.quote5.name,"Michael Michalsky
+Michael Michalsky ist einer der erfolgreichsten und respektiertesten Modedesigner Deutschlands. Er unterstützt diverse soziale projects und Initiativen, unter Anderem Save Darfur und den WWF.
+
+","Michael Michalsky
+Michael Michalsky is one of the most successful and respected German 
+fashion designers. He supports various social projects and initiatives 
+such as Save Darfur and the WWF.",
+2.2g),about.quotes.quote6.picture,,,Bild mit Link hinterlegt
+2.2g),about.quotes.quote6.text,"„dotHIV ist ein großartiges project, das gleichzeitig mehrere Wirkungsfelder hat: Es sammelt Mittel, um die Krankheit zu bekämpfen, hilft infizierten Menschen und bietet den vielen Organisationen und Aktivisten in diesem Bereich eine Plattform für Kommunikation und Netzwerkarbeit.
+Außerdem wird es die Aufmerksamkeit auf die anhaltende Bedrohung durch HIV/Aids lenken – auch in Deutschland, wo der Zugang zu lebensrettenden Medikamenten zu einem gewissen Desinteresse gegenüber der Pandemie geführt hat. Und das obwohl sie noch lange nicht besiegt ist.”
+
+","“dotHIV is a great project which serves three objectives at the same
+ time: It will help to raise additional resources to fight the disease, 
+help infected people and provide a platform of communication and 
+networking for the great number of organizations and activists in this 
+field.
+Also, it will keep up the awareness of the ongoing threat of 
+HIV/AIDS in countries like Germany, where the access to life-saving 
+medicine has led to a certain indifference towards a pandemic, which is 
+still far from being defeated.“",
+2.2g),about.quotes.quote6.name,"Prof. Dr. Wolfgang Hein
+Prof. Dr. Wolfgang Hein ist Senior Research Fellow am GIGA Institut der Lateinamerika Studien in Hamburg und Autor von Global Health Governance and the Fight Against HIV/AIDS, Basingstoke, Palgrave 2007 (mit Lars Kohlmorgen und Sonja Bartsch, eds.).","Prof. Dr. Wolfgang Hein
+Prof. Dr. Wolfgang Hein is Senior Research Fellow at the GIGA 
+Institute of Latin American Studies, Hamburg, Germany and author of 
+Global Health Governance and the Fight Against HIV/AIDS, Basingstoke, 
+Palgrave 2007 (with Lars Kohlmorgen and Sonja Bartsch, eds.).",
+2.2g),about.quotes.quote7.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote7.text,"“Carolin Silbernagl und ihr Team sind bei ihrer Pro-Bono Arbeit wirklich mit ganzem Herzen dabei. Sie haben uns mit ihrem Enthusiasmus und ihrem Einsatz dafür, anders zu denken inspiriert.
+Wir sind fest davon überzeugt, dass dotHIV eine einmalige Möglichkeit ist, dieses globale Problem auf einer globalen Skala zu bekämpfen und dabei eine breite Masse von Unternehmen, Organisationen und Internetusern einzubinden.”
+
+","“Carolin Silbernagl and her team are very dedicated to their 
+pro‐bono work and have inspired us with their enthusiasm and commitment 
+to think differently.
+We sincerely believe that dotHIV is a unique opportunity to fight a 
+global problem on a global scale, engaging a broad number of companies, 
+organizations and Internet users.”",
+2.2g),about.quotes.quote7.name,"Dr. med. Keikawus Arastéh
+Dr. Arastéh ist Chefarzt für Innere Medizin, Infektiologie und HIV am Vivantes Auguste-Viktoria-Klinikum in Berlin.
+
+","Dr. med. Keikawus Arastéh
+Dr. med. Arastéh is Director of Internal Medicine at Vivantes Auguste-Viktoria-Klinikum, Berlin, Germany",
+2.2g),about.quotes.quote8.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote8.text,"“Technologie fasziniert uns. Wir glauben: Welche Herausforderung auch immer sich einem stellt – es gibt eine Technologie, um sie zu meistern. In dotHIV sehen wir das Potential, eine essentiellen Beitrag zu leisten, um ein globales Problem mit intelligent genutzter Technologie einzudämmen – und vielleicht sogar ein Teil der Lösung zu sein.”
+
+
+","Technology fascinates us. We believe: whatever the challenge might be
+– there is a technology that can master it. We see the potential in dotHIV
+to make an essential contribution to dam up a global problem with
+intelligently used new technology – and maybe even be a part of the solution.”
+
+
+
+",
+2.2g),about.quotes.quote8.name,"Michael Finke
+Internationaler Werbeleiter bei der AUDI AG
+
+","Michael Finke
+International advertising manager at AUDI AG
+
+",
+2.2g),about.quotes.quote9.picture,,,"Bild mit Link hinterlegt 
+
+"
+2.2g),about.quotes.quote9.text,"”Aids? Das geht mich nichts an. – Diese Position ist recht häufig aber sich für “sicher” zu halten wäre trügerisch. Weltweite Aufklärung gehört zu den wichtigsten Maßnahmen in der Bekämpfung und Vorbeugung von Aids. Denn Schritte gegen diese Krankheit können nur auf einer globalen Ebene passieren. dotHIV macht das auf eine äußerst clevere Art – nicht belehrend, sondern innovativ und ohne Zweifel sehr erfolgreich.”
+
+
+
+","“AIDS? That only concerns others. This position is quite common but 
+to think of ourselves as safe would be deceptive. Worldwide education 
+belongs to the most important measurements for the AIDS response and 
+prevention of the disease. Because steps against the virus can only be 
+taken on a global basis. dotHIV does that in a very clever way – not 
+didactic but highly innovative and undoubtedly very successful.”",
+2.2g),about.quotes.quote9.name,"Reinhold Beckmann
+Journalist und Moderator","Reinhold Beckmann
+TV host and journalist",
+2.2g),about.quotes.quote10.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote10.text,"“Wir brauchen Kreativität und maximale Aufmerksamkeit, um die immerwährende Bedrohung durch HIV/Aids zurück ins Bewusstsein der Menschen zu bringen und die Stigmatisierung der Krankheit zu reduzieren.
+dotHIV verbindet beide Aspekte auf beeindruckende Weise, indem es die gewaltige Kraft des Internets nutzt, um relevante Inhalte unterstreicht und Spenden sammelt, um wichtige Aufklärungsarbeit zu unterstützen. “Vergessen ist ansteckend” und “Update Your Life” unterstützen diese bahnbrechende Initiative.”
+
+
+","“We need creativity and maximum attention to bring back the ever 
+present threat of HIV/Aids into the mind of the people and fight the 
+stigmatization of the disease. dotHIV impressively connects both 
+objectives by using the enormous power of the Internet to highlight 
+relevant content and generating donations for essential educational 
+work. “Vergessen ist ansteckend” and “Update Your Life” support this 
+groundbreaking initiative.”
+",
+2.2g),about.quotes.quote10.name,"Lars Witte-Winter
+Hat die “Vergessen ist ansteckend gGmbH” gegründet und aufgebaut. Wir sind froh, ihn in unserem Beirat zu haben, denn er bringt viel Erfahrung mit.
+
+","Lars Witte-Winter
+Founded and managed the “Vergessen ist ansteckend gGmbH“. We are very happy to have him on our advisory board because he brings a lot of experience to the team!",
+2.2g),about.quotes.quote11.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote11.text,"“Für mich ist dotHIV ein fortschrittlicher Ansatz im Kampf gegen Aids. Es nutzt das Internet auf bestmögliche Weise um Spenden zu sammeln und Aufmerksamkeit zu schaffen. Ich bin mir sicher, dass dotHIV wichtige Beiträge im Kampf gegen das Virus leisten wird.”
+
+","""For me, dotHIV is a progressive approach in the fight against HIV and
+AIDS. It uses the Internet in the best possible way to generate donations
+and create awareness. I’m sure that dotHIV will make some important
+contributions to the fight against the virus.""
+
+
+
+",
+2.2g),about.quotes.quote11.name,"Michael Stich
+Hat als Tennisspieler Wimbledon und die Olympischen Spiele gewonnen – seit 1994 setzt er sich mit der Michael Stich Stiftung für HIV-infizierte Kinder in Deutschland ein.","Michael Stich
+The Wimbledon and Olympic Tennis Champion Michael Stich founded a 
+charitable trust, which supports HIV-infected children in Germany. 
+",
+2.2g),about.quotes.quote12.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote12.text,"“dotHIV ist eine großartige Idee, wirklich gut durchdacht und ein solides soziales Geschäftsmodell, das mich fasziniert – genau so wie betterplace. Ich bin fest davon überzeugt, dass dotHIV die Rote Schleife des digitalen Zeitalters wird.”
+
+
+","“dotHIV is a great idea, really well thought-through and a solid 
+social business that fascinates me – just like betterplace. I am sure 
+that dotHIV will become the red ribbon of the digital age!”",
+2.2g),about.quotes.quote12.name,"Dr. Bernd Kundrun
+Bernd Kundrun ist einer unserer ersten Unterstützer. Der ehemalige Aufsichtsratsvorsitzende der Gruner + Jahr AG und Mitinitiator der Kampagne “Du bist Deutschland” ist heute Vorsitzender des Aufsichtsrats der gut.org gAG.","Dr. Bernd Kundrun
+Bernd Kundrun is one of our earliest supporters and former chairman 
+of the board at Gruner + Jahr. He was one of the iniators of „Du bist 
+Deutschland“, a social-marketing-campaign in 2005 and donated 1 Million 
+Euros to the charitable Internet donation-platform betterplace.org in 2009.",
+2.2g),about.quotes.quote13.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote13.text,"Aufmerksamkeit und Geld bilden die Grundlage für einen erfolgreichen Kampf gegen Aids. dotHIV ist ein sehr innovativer Ansatz, um beide Aspekte zu verbinden und so die Pandemie einzudämmen und letztendlich zu besiegen.","“Awareness and money are the essential base for a successful fight 
+against HIV/Aids. dotHIV is a very innovative approach to connect both 
+aspects to dam up and eventually beat the epidemic.”",
+2.2g),about.quotes.quote13.name,"Prof. Dr. Peter H. Seeberger
+Prof. Dr. Peter H. Seeberger ist Leiter der Abteilung für Kolloid- und Grenzflächenforschung am Max-Planck Institut, Potsdam. Außerdem ist er ein Gründungsmitglied der “Hope for Africa”-Stiftung, die sich zum Ziel gesetzt hat, das Gesundheitswesen in Afrika zu verbessern, indem sie Zugang zu Malaria-Impfungen und HIV-Behandlung gibt.","Prof. Dr. Peter H. Seeberger
+Prof. Dr. Peter H. Seeberger is the director of the Max-Planck 
+Institute of Colloids and Interfaces. He also is a founding member of 
+the „Hope for Africa Foundation“ that aims at improving health care by 
+providing access to malaria vaccines and HIV-treatments.",
+2.2g),about.quotes.quote14.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote14.text,"“Einige Mitglieder der ICANN-community waren der Meinung, dass ein neues Top-Level Programm überflüssig sei. Es ist großartig zu sehen, dass Initiativen wie dotHIV den ganzen Prozess rechtfertigen. Vielen Dank!”
+
+","“Some members of the ICANN-community said, there was no need for new
+ top-level-domains. It‘s great to see that initiatives such as dotHIV 
+are giving the whole process a reason. Thank‘s very much!”",
+2.2g),about.quotes.quote14.name,"Peter Dengate Thrush
+Peter Dengate Thrush ist seit der Gründung in die ICANN involviert und war von 2007 bis 2011 ihr Aufsichtsratsvorsitzender .
+
+","Peter Dengate Thrush
+Peter Dengate Thrush is a New Zealand-born barrister specializing in 
+Internet law, intellectual property and competition. He is involved in ICANN since its inception and was chairman of the board from 2007 until 2011.",
+2.2g),about.quotes.quote15.picture,,,Bild mit Link hinterlegt 
+2.2g),about.quotes.quote15.text,GMHC ist die älteste HIV und AIDS Service-Organisation der Welt und ist stolz offizieller Unterstützer von dotHIV zu sein.,"“GMHC is the world’s oldest HIV/AIDS Service Organization and is 
+proud to be a supporter of dotHIV. We follow the progress of dotHIV with
+ great interest. ",
+2.2g),about.quotes.quote15.name,"Janet Weinberg, CEO/COO GMHC, New York","Janet Weinberg, CEO/COO GMHC, New York",
+2.3a),about.fororg.headline,dotHIV für die AIDS response,dotHIV for the HIV response,
+2.3a),about.fororg.text,"Kurze Einleitung zu Thema ""Was macht dotHIV für Organisationen""
+
+",,
+2.3b),about.guidelines.headline,Was wir fördern,What we fund,
+2.3b),about.guidelines.text,"dotHIV fördert Projekte, die sich für einen gesicherten Zugang zu Behandlung und HIV Medikamenten einsetzten. Das Ziel ist es dabei für uns, kleine und innovative Projekte zu unterstützen, die bedeutende Arbeit leisten und dennoch häufig das Problem haben, von großen Geldgerbern nicht gefördert zu werden. Gleichzeitig ist uns die Qualität der Projekte besonders wichtig. Aus diesem Grund haben wir genau formuliert, was wir fördern und was nicht. Schau dir hier an, was dotHIV fördert.","dotHIV funds projects that aim to improve access to treatment for people living with HIV. The goal is to support small, community based and innovativ, because many of these projects are not eligible for funds from large donors but their work is extremly important. At the same time the quality of their work is crucial for us. That is why we formulated our funding goals and principles. You can find them here.",
+2.3b),about.guidelines.link,Zu unseren Förderrichtlinien,Go to funding principles,
+2.3c),about.fororg.charitydoamin.headline,"Die .hiv Non-profit Domain
+",The .hiv Non-profit Domain,
+,about.fororg.charitydomain.secondheadline.what,Was ist eine .hiv non-profit Domain?,What is a .hiv Non-prfit Domain?,
+2.3c),about.fororg.charitydoamin.text,"Die .hiv non-profit Domain ist gleich im doppelten Sinne non-profit: Zum einen vergeben wir die Domain ausschließlich an non-profit Organisationen mit einem Schwerpunkt im Bereich HIV und Aids. Zum anderen ist die non-profit Domain für diese Organisationen kostenlos – die Kosten übernimmt dotHIV. Damit möchten wir Initiativen, die sich im Bereich HIV und Aids engagieren, einen gemeinsamen themengebundenen Raum im Internet geben. 
+","The .hiv non-profit domain is non-profit in two
+ways: firstly, it is exclusively for non-profit organizations whose work focuses on HIV and AIDS. Secondly, it is free of charge because dotHIV carries the cost. The reasoning behind this is to create an Internet realm in which HIV and AIDS initiatives would be united.
+
+
+
+
+
+",
+2.3c),about.fororg.charitydoamin.dropdown,Mehr erfahren,Learn more,
+2.3c),about.fororg.charitydomain.secondheadline.why,Was sind die Vorteile einer .hiv non-profit Domain?,What are the Benefits of a .hiv Non-profit Domain?,
+2.3c),about.fororg.charitydomain.expand,"
+Mit der kostenlosen .hiv Domain wollen wir für Organisationen im Bereich HIV und Aids einen eigenen Platz im Internet schaffen. Durch die gemeinsame Nutzung dieses Platzes verstärkt sich die Wirkung des Einzelnen – durch die Entstehung besserer Sichtbarkeit und die Bildung eines globalen Netzwerkes.
+
+Die  Verwendung einer .hiv Domain verbessert die Suchmaschinenergebnisse und erhöht somit die Sichtbarkeit im Internet. Gleichzeitig erhöht ein gemeinsamer Namensraum die Transparenz über die Arbeit im Feld - sowohl für Internetuser als auch für Organisationen. Diesen wird eine einfache Möglichkeit gegeben, ein globales Netzwerk aufzubauen und das ganz ohne Kosten und intensive Bemühungen.
+
+Und last but not least: auch in die kostenlose non-profit Domain wird unser Mikrospendensystem integriert. Das heißt auch für diese Seiten gilt: Jeder Klick auf eine .hiv Domain löst eine Mikrospende aus, die an HIV projects überall auf der Welt weiter gegeben wird.
+
+","The free .hiv domain will help create a global network that amplifies the work of initiatives with a focus on HIV and AIDS world wide. Therefore creating an area where the efforts of each initiative are visible. Using the .hiv domain improves search engine results for the organization, but also adds to its visibility on the Internet. All in all the usage of a .hiv creates a universal realm that improves the transparency of fieldwork for both the Internet users and the organizations themselves. Moreover the opportunity to create this global network is free of charge.
+
+Last but least, all non- profit domains have a micro- donation system integrated in them. Making it possible for Internet users to click free a certain amount that is to be donated to HIV projects worldwide.
+
+
+
+
+
+",
+2.3c),about.fororg.charitydomain.link,Non-profit Domain beantragen,Get your own .hiv Non-profit Domain,Link zum Antrag auf der GmbH Seite
+2.3d),about.expertpool.headline,Experten Pool,Expert Pool,
+2.3d),about.expertpool.text,"Unseren Experten kommt eine besondere Bedeutung bei der Vorauswahl der HIV und AIDS Projekte zu. Sie sind Teil eines Sicherheitsnetzes, das uns dabei hilft, vertrauenswürdige Organisationen auszuwählen, die effektive und wirkungsvolle Projekte durchführen. Der Pool setzt sich aus Experten unterschiedlicher Bereiche und Länder zusammen. Hier Stellen wir sie euch vor.",Our experts have a very important role: they are part of a safty net that will guid the preselection the potential funding recipients. The will help us to edentify  organizations that are trustworthy and that execute effective and impactoriented projects. The pool consists of experts from all around the world with differnet knowledge and expertise. We introduce them here.,
+2.3e),about.network.headline,Unser Organisationsnetzwerk,Notwork organizations,
+2.3e),about.network.org1.name,ALAFA - Apparel Lesotho Alliance to Fight AIDS ,ALAFA - Apparel Lesotho Alliance to Fight AIDS ,
+2.3e),about.network.org1.picture,,,Bild mit Link hinterlegt 
+2.3e),about.network.org2.name,BelAIDS Network - Belarussian NGO AIDS Network,BelAIDS Network - Belarussian NGO AIDS Network,
+2.3e),about.network.org2.picture,,,Bild mit Link hinterlegt 
+2.3e),about.network.org3.name,Create Future e.V.,Create Future e.V.,
+2.3e),about.network.org3.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org4.name,Croix-Rouge Luxembourgeoise,Croix-Rouge Luxembourgeoise,
+2.3e),about.network.org4.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org5.name,Czech AIDS Help Center,Czech AIDS Help Center,
+2.3e),about.network.org5.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org6.name,danebi.org Apothekennetzwerk,danebi.org Apothekennetzwerk,
+2.3e),about.network.org6.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org7.name,GAGA UK – Goodwill and Growth for Africa,GAGA UK – Goodwill and Growth for Africa,
+2.3e),about.network.org7.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org8.name,Gegenpol,Gegenpol,
+2.3e),about.network.org8.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org9.name,GoAhead!,GoAhead!,
+2.3e),about.network.org9.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org10.name,Hamburg Leuchtfeuer,Hamburg Leuchtfeuer,
+2.3e),about.network.org10.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org11.name,HIV 360°,HIV 360°,
+2.3e),about.network.org11.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org12.name,HIV Disclosure Mission,HIV Disclosure Mission,
+2.3e),about.network.org12.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org13.name,HIVplus Italia,HIVplus Italia,
+2.3e),about.network.org13.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org14.name,i-magine e.V.,i-magine e.V.,
+2.3e),about.network.org14.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org15.name,The Load Zero Foundation,The Load Zero Foundation,
+2.3e),about.network.org15.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org16.name,LOVE ROCKS,LOVE ROCKS,
+2.3e),about.network.org16.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org17.name,Michael Stich Stiftung,Michael Stich Stiftung,
+2.3e),about.network.org17.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org18.name,die Multis,die Multis,
+2.3e),about.network.org18.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org19.name,Rafi.ki,Rafi.ki,
+2.3e),about.network.org19.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org20.name,Stop AIDS Now / Access,Stop AIDS Now / Access,
+2.3e),about.network.org20.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org21.name,think red! ribbonize your life!,think red! ribbonize your life!,
+2.3e),about.network.org21.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org22.name,Vergessen ist ansteckend,Vergessen ist ansteckend,
+2.3e),about.network.org22.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org23.name,Vijana Amani Pamoja (VAP),Vijana Amani Pamoja (VAP),
+2.3e),about.network.org23.picture,,,Bild mit Link hinterlegt
+2.3e),about.network.org24.name,Yabonga e.V.,Yabonga e.V.,
+2.3e),about.network.org24.picture,,,Bild mit Link hinterlegt
+2.4a),about.whosbehind.headline,dotHIV - ein Netzwerk für den guten Zweck,dotHIV - a network for a good cause,
+2.4a),about.whosbehind.text,"dotHIV – das sind viele. Ein globales Konzept braucht globale Unterstützer, ein Netzwerk für den guten Zweck. Ein sechsköpfiges Kernteam aus Berlin, mit ehrenamtlicher Kreativunterstützung aus Hamburg bildet die Basis von dotHIV.  kommt weitere Unterstützung aus allen Ecken der Welt hinzu. Neben Einzelpersonen gehören dazu vor allem Organisationen aus dem Feld und Unternehmen mit unterschiedlichen Kernkompetenzen.","dotHIV - that are many. A gloab concept needs global support, a network for a good cause. Our core team of six people is based in Berlin and a voluntary creativ team based in Hamburg build the solid ground for dotHIV. But our network is spread all over the world. Besides a lot of great individulas that support us, several HIV organizations and companies have contributed their time and knowledge. ",
+2.4b),about.team.headline,Team,Team,
+2.4b),about.team.text,,,
+2.4b),about.team.picture,Teamfoto,Team photo,Bild
+2.4b),about.team.charity.headline,Der Verein,The Association,
+2.4b),about.team.charity.member1.picture,,,Bild
+2.4b),about.team.chairty.member1.name,Ina von Rosenstiel,Ina Von Rosenstiel,
+2.4b),about.team.charity.member1.affiliation,Geschäftsführerin,Managing Director,
+2.4b),about.team.charity.member2.picture,,,Bild
+2.4b),about.team.charity.member2.name,Greta Philine Jeske,Greta Philine Jeske,
+2.4b),about.team.charity.member2.affiliation,Community Managerin,Community Managerin,
+2.4b),about.team.charity.member3.picture,,,Bild
+2.4b),about.team.charity.member3.name,Peter Thomassen,Peter Thomassen,
+2.4b),about.team.charity.member3.affiliation,??,,
+2.4b),about.team.charity.member4.picture,,,Bild
+2.4b),about.team.charity.member4.name,Daniella Maria Römer,Daniella Maria Römer,
+2.4b),about.team.charity.member4.affiliation,Praktikantin,Intern,
+2.4b),about.team.company.headline,Registry,Registry,
+2.4b),about.team.company.member1.picture,,,Bild
+2.4b),about.team.company.member1.name,Carolin Silbernagl,Carolin Silbernagl,
+2.4b),about.team.company.member1.affiliation,CEO,CEO,
+2.4b),about.team.company.member1.founder,Gründerin dotHIV,Co-Founder,
+2.4b),about.team.company.member2.picture,,,Bild
+2.4b),about.team.company.member2.name,Maria Schönfeld,Maria Schönfeld ,
+2.4b),about.team.company.member2.affiliation,CFO,CFO,
+2.4b),about.team.company.member3.picture,,,Bild
+2.4b),about.team.company.member3.name,Markus Tacker ,Markus Tacker,
+2.4b),about.team.company.member3.affiliation,CTO,CTO,
+2.4b),about.team.company.member4.picture,,,Bild
+2.4b),about.team.company.member4.name,Michael Twist,Michael Twist,
+2.4b),about.team.company.member4.affiliation,Marketingmanager,Marketingmanager,
+2.4b),about.team.communication.member1.picture,,,Bild
+2.4b),about.team.communication.member1.name,Philipp Kafkoulas,,
+2.4b),about.team.communication.member1.affiliation,Gründer dotHIV/Communication,Co-Founder/Communications,
+2.4b),about.team.communication.member2.picture,,,Bild
+2.4b),about.team.communication.member2.name,Stefan Förster,Stefan Förster,
+,about.team.communication.memebr2.affiliation,Kommunikationsteam,Communications,
+2.4b),about.team.communication.member3.picture,,,Bild
+2.4b),about.team.communication.member3.name,Michel Foertsch,Michel Foertsch,
+,about.team.communication.member3.affiliation,Kommunikationsteam,Communications,
+2.4b),about.team.dropdown,Findet hier weiter Unterstützer und Ehemalige,More supporters and alumni,
+,about.team.alumni1,"Lumbumbe Van de Velde, Praktikantin","Lubumbe Van de Velde, Intern",
+,about.team.alumni2,"Emma Watson, Praktikantin","Emma Watson, Intern",
+,about.team.alumni3,,,
+,about.team.alumni4,,,
+,about.team.alumni5,,,
+2.4b),about.team.organizationchart,,,
+2.4c),about.partnersupporter.headline,Partner & Supporter,Partner & Supporter,
+2.4c),about.partnersupporter.text,"dotHIV wäre ohne die große Anzahl an Partnern und Unterstützern nicht möglich. Von unserem Gründungpartner, der Kreativagentur Thjnk, über HIV Organisationen und Großkonzernen bis hin zu IT Gurus konnten wir uns ein breites Unterstützernetzwerk aufbauen.","dotHIV wouldn’t be possible without als its partners and supporters. Starting from our funding partner the creative agency Thjnk, great HIV organizations to IT gurus we were able to establish a wide network of supporters.",
+2.4c),about.partner.secondheadline,Unsere Partner,Our Patners,
+2.4c),about.partner.partner1.link,thjnk,,Bild mit Link hinterlegt
+2.4c),about.partner.partner1.cutline,"Die Kreativagentur Thjnk, Gründungspartner","The creative agency Thjnk, founding partner",
+2.4c),about.partner.partner2.link,aidshilfe,,Bild mit Link hinterlegt
+2.4c),about.partner.partner2.cutline,"Die Deutsche AIDS-Hilfe, inhaltlicher Partner","The ""Deutsche AIDS-Hilfe"", advising partner",
+2.4c),about.partner.partner3.link,afillias,afilias,Bild mit Link hinterlegt
+2.4c),about.partner.partner3.cutline,,,
+2.4c),about.partner.partner4.link,keysystems,keysystems,Bild mit Link hinterlegt
+2.4c),about.partner.partner4.cutline,"Keysystem, Partnerregistrar","Keysystems, Partner registrar",
+2.4c),about.partner.partner5.link,moniker,moniker,Bild mit Link hinterlegt
+2.4c),about.partner.partner5.cutline,"Moniker, Partnerregistrar","Moniker, Partner registrar",
+2.4c),about.supporter.headline,dotHIV Unterstützer,dotHIV supporter,
+2.4c),about.supporter.supporter1.link,atlassian,atlassian,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter2.link,dotzon,dotzon,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter3.link,elementc,elementc,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter4.link,engarde,engarde,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter5.link,fischerppelt,fischerppelt,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter6.link,github,github,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter7.link,google,google,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter8.link,jovoto,jovoto,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter9.link,change,change,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter10.link,liga01,liga01,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter11.link,loved,loved,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter12.link,nccgroup,nccgroup,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter13.link,nhb,nhb,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter14.link,podio,podio,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter15.link,positivesingles,positivesingles,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter16.link,refinedwiki,refinedwiki,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter17.link,sedo,sedo,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter18.link,shareifyoulike,shareifyoulike,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter19.link,aswipe,aswipe,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter20.link,charity,charity,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter21.link,uniteddoamin,uniteddoamin,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter22.link,universal,universal,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter23.link,youtube,youtube,Bild mit Link hinterlegt
+2.4c),about.supporter.supporter24.link,zakk,zakk,
+2.4c),about.supporter.dropdown,Finde hier weitere Unterstützer von dotHIV,Find more dotHIV supporters,
+2.4c),about.supporter.more.name1,Alan Orpin,Alan Orpin,
+2.4c),about.supporter.more.name2,Atlassian (Confluence),Atlassian (Confluence),
+2.4c),about.supporter.more.name3,Böger Knittel KG,Böger Knittel KG,
+2.4c),about.supporter.more.name4,Hainke Schüler Alleyne Fumagalli Rechtsanwälte,Hainke Schüler Alleyne Fumagalli Rechtsanwälte,
+2.4c),about.supporter.more.name5,Marita Locmele,Marita Locmele,
+2.4c),about.supporter.more.name6,New Zealand Bobsled Team,New Zealand Bobsled Team,
+2.4c),about.supporter.more.name7,RöverBrönnerSusat ,RöverBrönnerSusat ,
+2.4c),about.supporter.more.name8,The Young Turks,The Young Turks,
+2.4c),about.supporter.more.name9,Timm Specht Druck & Produktion GmbH,Timm Specht Druck & Produktion GmbH,
+2.4c),about.supporter.more.name10,"The iqconsult team, Norbert Kunz, SAP","The iqconsult team, Norbert Kunz, SAP",
+2.4c),about.supporter.more.name11,,,
+2.4c),about.supporter.more.name12,,,
+2.4d),about.board.headline.left,Unser Beirat,Our Advisory Board,
+2.4d),about.board.text.left,Unsere Beiräte stehen uns seit der Gründung des dotHIV gemeinnützigen e.V. mit ihrer Expertise und ihrem Wissen zur Seite. Das macht sie zu einer wichtigen Säule der initiative.,Our advisors are standing supporting us with their knowledge and expertise since day one. That makes them a very important pillar of the initiative.,
+2.4d),about.board.board1.name,Bernd Kundrun,Bernd Kundrun,
+2.4d),about.board.board1.text,Bernd unterstützt die Initiative mit seiner großen Erfahrung und seinem wertvollen Netzwerk. Er war Aufsichtsratsvorsitzender der Gruner + Jahr AG und ist heute Vorsitzender des Aufsichtsrats der gut.org gAG.,Bernd supports the initiative with his valuable experience and great network. He used to be chairman of the board at Gruner + Jahr AG and now functions as the chairman of the gut.org gAG.,
+2.4d),about.board.board2.name,Lars Witte-Winter,Lars Witte-Winter,
+2.4d),about.board.board2.text,"Als Geschäftsführer der Bplus – Moodmarketing & Events mbH 
+organisiert Lars Events für große Unternehmen. Seine Erfahrung und 
+Kontakte setzt er seit  Jahren für die Initiative „Vergessen ist ansteckend“ ein.","As the CEO of the Bplus – Moodmarketing & Events mbH, Lars realizes events for important companies. He has been using his experience and contacts for the initiative „Vergessen ist ansteckend“ for years.",
+2.4d),about.board.board3.name,Jan Foertsch,,
+2.4d),about.board.board3.text,Jans lange Erfahrung als Steuerberater und Wirtschaftsprüfer ist immer wieder von großem Nutzen. Er engagiert sich schon lange im sozialen Sektor für Einrichtungen wie NestWerk e.V. und Hamburg Leuchtfeuer.,Jans long experience as a tax adviser and financial auditor is of great use to us again and again. He has been active in the social sector for years at organizations such as NestWerk e.V. and Hamburg Leuchtfeuer.,
+2.de),about.angels.headline,Unsere Business Angels,Our Business Angel,
+,about.angels.text,"Seit der Gründung von dotHIV konnten wir 14  Business Angel für uns gewinnen. Investiert haben diese, neben wirtschaftlichen Mitteln, auch immer wieder Know-how und Expertise eingebracht, die unbezahlbar ist. Ohne ihre Unterstützung wäre dotHIV heute nicht wo es ist.",Since dotHIV was founded in 2011 we were able to win 14 Business Angel as investors for dotHIV. Besides finanical support they often also invested knowledge and expertise that is invaluable to us. Without their support dotHIv would never be where it is today. ,
+,about.angels.michael.photo.left,,,
+,about.angels.michael.name.left,Dr. Michael Trautmann,Dr. Michael Trautmann,
+,about.angels.michael.text.right,"Dr. Michael Trautmann is für dotHIV den Inbegriff eines Business Angel. Von Beginn an hat er neben finanzieller Unterstützung jede Möglichkeit genutzt, dotHIV zu präsentieren und die Idee zu verbreiten. Darüber hinaus hat er unter Freunden, Bekannten und Kollegen weitere Unterstützer von einem Investment in dotHIV überzeugt. Ohne ihn wäre dotHIV heute nicht, was es ist.
+","Dr. Michael Trautmann is for dotHIV a Business Angel in the true sense of the word. From the beginning he invested not only money in dotHIV, but also took every chance ttaht came up to present it and to spread the word. Furthermore he never became tiered of conviencing friends, colleagues and business partner to invest in dotHIV. Without him, dotHIV would still be  great idea in someones mind. ",
+,about.angels.dropdown,,,
+,about.angels1.left,Thjnk,Thjnk,
+,about.angels2.left,Henkler-Cöllen GbR,Henkler-Cöllen GbR,
+,about.angels3.left,Hans-Jochen Holthausen,Hans-Jochen Holthausen,
+,about.angels4.left,Dr. Bernd Kortüm,Dr. Bernd Kortüm,
+,about.angels5.left,Michael Stich,Michael Stich,
+,about.angels6.left,Dr. Jesko Perrey,Dr. Jesko Perrey,
+,about.angels7.left,Boston I-Venture GmbH,Boston I-Venture GmbH,
+,about.angels8.right,Matthias Schrader,Matthias Schrader,
+,about.angels9.right,Thomas Wünsche ,Thomas Wünsche ,
+,about.angels10.right,Clemens Lansing,Clemens Lansing,
+,about.angels11.right,SCD Invest GmbH,SCD Invest GmbH,
+,about.angels12.right,whatever mobile GmbH,whatever mobile GmbH,
+,about.angels13.right,Solanus GmbH,Solanus GmbH,
+,about.angels14.right,Philipp Grabensee,Philipp Grabensee,
+2.4f),about.association.headline,Organisationstruktur,Organizational structure,
+2.4f),about.association.graphic,,,
+2.4f),about.heavystuff.headline,Schwere Kost,Heavy Stuff,
+2.4f),about.heavystuff.text,"Vereinssatzung, Statusberichte und Jahresabschlüsse. All das und viele weitere wichtige Dokumente über den dotHIV gemeinnützigen e.V. findest du hier.","Articels of the Association, Status report and Annual accounts. You can find all that and more important documents about the dotHIV chartibale organization here.",
+2.4f),about.heavystuff.secondheadline.status,Unsere Statusberichte,Status report,
+2.4f),about.heavystuff.status1.download,Statusbericht 2012/01,Status report 2012/01,mit PDF Download hinterlegt 
+2.4f),about.heavystuff.status2.dowload,Statusbericht 2012/02,Status report 2012/2,mit PDF Download hinterlegt 
+2.4f),about.heavystuff.status3.download,Statusbericht 2013/01,Status report 2013/1,mit PDF Download hinterlegt 
+2.4f),about.heavystuff.secondheadline.charter,Unsere Vereinssatzung und Gemeinnützigkeit,Articless of Association and Non-proft status,
+2.4f),about.heavystuff.charter.download,Unsere Vereinssatzung,Articless of Association  ,mit PDF Download hinterlegt 
+2.4f),about.heavystuff.charity.download,Unser Gemeinnützigkeits-Status,Non-profit status,mit PDF Download hinterlegt 
+2.4f),about.heavystuff.secondheadline.financials,Unsere Finanzen,Our Finances,
+2.4f),about.heavystuff.financials1.download,Jahresabschlussbericht 2011,Financial statement 2011,mit PDF Download hinterlegt 
+2.4f),about.heavystuff.financials2.download,"Jahresabschlussbericht 2012
+",Financial statement 2012,mit PDF Download hinterlegt 
+2.4f),about.heavystuff.financials3.download,Jahresabschlussbericht 2013,Financial statement 2013,mit PDF Download hinterlegt 
+2.4f),about.heavystuff.secondheadline.registry,Die dotHIV Registry,The dotHIV registry,
+2.4f),about.heavystuff.resistry.text,Finde mehr Information zu unserem Top Level Domain Antrag auf der Website der dotHIV TLD Registry,Leran more about our TLD application at the website of the dotHIV TLD Registry,
+2.4f),about.heavystuff.registry.link,,,Link zur Gmbh Seite
+2.5a),about.getactive.headline,Werde aktiv ,Get involved,
+2.5a),about.getactive.text,"Es gibt viele Möglichkeiten, Teil der dotHIV Bewegung zu werden. Hier kannst du rausfiden, wir du helfen kannst. Falls du eigene ideen hast, wie du dotHIV unterstützen möchtest schreib uns gerne eine Mail an mail@dothiv.org. Wir freuen uns auf deine Ideen.",There are many ways to support dotHIV. Here you can find differnet opportunities on how to bceome a member of the dotHIV movement. If you have your own idea on how to suppport dotHIV please write an email to mail@dothiv.org. ,
+2.5b),about.getactive.jobs.headline,"Jobs
+",Jobs,
+,about.getactive.jobs.position.left,,,
+,about.getactive.jobs.deadline.middle,,,PDF zum download
+,about.getactive.jobs.download.right,,,
+2.5c),about.getactive.howto.headline,Was kann ich tun?,What can I do?,
+2.5c),about.getactive.howto.text,"Hier findet sich eine Auswahl an Möglichkeiten um dotHIV zu unterstützen. Von der Fördermitgliedschaft bis hin zum Tech for good.
+
+",You can find a variety of ways to support dotHIV here. From a supportig membership to tech for good.,
+2.5c),about.getactive.howto.clickvoteshare.headline,Das dotHIV Prinzip: Click-Vote-Share,The dotHIV concept: Click-Vote-Share,
+2.5c),about.getactive.howto.member.headline,Werde dotHIV Fördermitglied,Become a supporting member,
+,about.getactive.howto.member.text,"Kurze Erklärung über das Prinzip der Fördermitglieschaft udn die drei unterschiedlichen Varianten
+","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate ",
+,about.getactive.howto.member.download1,Fördermitgliedschaft für Privatpersonen,Supporting memberships for individuals,Text mit PDF Download hinterlegt
+,about.getactive.howto.member.download2,Fördermitgliedschaft für Firmen,Supporting memberships for companies,Text mit PDF Download hinterlegt
+,about.getactive.howto.member.download3,Fördermitgliedschaft für Schüler,Supporting membership for pupils,Text mit PDF Download hinterlegt
+2.5c),about.getactive.howto.campus.headline,"Werde Campus Captain
+",Become a Campus Captain,
+2.5c),about.getactive.howto.campus.text,"kurze Erklärung des Prinzip “Campus Captain”
+
+","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate ",
+2.5c),about.getactive.howto.campus.download,Campus Captain Handbuch,Campus Captain Manual,Text mit PDF Download hinterlegt
+2.5c),about.getactive.howto.tech.headline,"Hilf uns .hiv noch besser zu machen
+",Help making .hiv even better,
+2.5c),about.getactive.howto.tech.text,"Ein paar Worte zu der Idee von Tech for good 
+","Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate ",
+2.5c),about.getactive.howto.tech.download,,,Text mit PDF Download hinterlegt
+2.5d),about.getactive.howto.graphic,,,
+2.6a),about.newsstream.headline,News,,
+2.6a),about.newsstream.secondheadline,,,
+2.6a),about.newsstream.text,,,
+2.6a),about.newsstream.picture,,,Bild neben dem Text
+2.6a),about.newsstream.dropdown,Ältere News,,
+2.6a),about.oldernews.secondheadline1,,,
+2.6a),about.oldernews.text1,,,Bild neben dem Text
+2.6a),about.oldernews.picture1,,,
+2.6b),about.socialmedia.headline,Social Media,,
+2.6b),about.socialmedia.facebook.headline,"Facebook Stream
+",,
+2.6b),about.socialmedia.facebook.stream,,,Stream unserer Facebook Seite
+2.6b),about.socialmedia.facebook.like,,,Like Button mit Verknüpfung zu Facebook
+2.6b),about.socialmedia.twitter.headline,Twitter Stream,,
+2.6b),about.socialmedia.twitter.stream,,,
+2.6b),about.socialmedia.twitter.follow,,,Follow Button mit Verknüpfung zu Twitter
+2.6b),about.socialmedia.pinterest.headline,Pinterest Stream,,
+2.6b),about.socialmedia.pinterest.stream,,,Follow Button mit Verknüpfung zu Pinterest
+2.6b),about.socialmedia.pinterest.follow,,,
+2.6b),about.media.headline,dotHIV in den Medien,,
+2.6b),about.media.secondheadline1,,,Artikel Headline
+2.6b),about.media.link1,,,Artikel Link/PDF
+4.1a),login.headline,Log in,Log in,
+4.1a),login.text,Bitte log dich ein,Pleas log in to continue ,
+4.1a),login.adress.email,E-mail,E-mail,
+4.1a),login.adress.passwort,Passwort,Password,
+4.1a),login.link,Passwort veregssen?,Forgotten your password?,
+4.1a),login.button,Log in,Login,
+4.1b),login.socialmedia.headline,Log in mit...,Log in with,
+4.1b),login.facebook.link,"Facebook connect
+",Facebook connect,
+4.1b),login.twitter.link,Twitter connect,Twitter connect,
+4.1b),login.google.link,Google connect,Google connect,
+4.1c),login.registartion.headline,Anmeldung,New? Create Account,
+4.1c),login.registration.text,Neu bei dotHIV? Lege hier deinen eigenen Account an,Password*,
+4.1c),login.registration.adress.password,Passwort*,,
+4.1c),login.registration.adress.reenter,Passwort erneut eingeben*,Re-enter Password*,
+4.1c),login.registration.privacypolicy,By signing up you agree to our terms of use and privacy policy ,,
+4.1c),login.registation.button,Jetzt Registrieren,Register now,
+4.2a),profile.overview.nav.aboutme.link,"Mein profile
+",My Profile,
+4.2a),pofil.overview.nav.project.link,Projekt einstellen,Upload Project,
+4.2a),profile.overview.nav.language,Sprache wählen,Language,
+4.2b),profile.overview.header.headline,Hallo Max Mustermann,Hello ,
+4.2b),profile.overview.header.lastlogin,Letzter Login,Last Login,
+4.2b),profile.overview.header.votes,Votes,Votes,
+4.2b),profile.overview.header.comments,Abgegebne Kommentare,Comments posted,
+4.2b),profile.overview.header.overview.link,Übersicht,Overview,
+4.2b),profile.overview.header.changeprofile.link,Profil bearbeiten,Edit Profile,
+4.2b),profile.overview.header.changeproject.link,Projekte verwalten,Manage Projects,
+4.2b),profile.overview.header.changedomain.link,Domains verwalten ,Manage Domains ,
+4.2b),profile.overview.header.logout.link,Logout,Logout,
+4.2c),profile.overview.projects.headline,Projektübersicht,Project overview,
+4.2c),profile.overview.projects.button,Neues Projekt einstellen ,Upload new Project,
+4.2c),profile.overview.projects.text,Projektbeschreibung ,Project ,
+4.2c),profile.overview.projects.link1,Zur Projektansicht ,Go to Projects,
+4.2c),profile.overview.projects.link2,Neuigkeiten hinzufühgen ,Add News,
+4.2c),profile.overview.projects.link3,Projekt bearbeiten ,Edit Project,
+4.2c),profile.overview.project.download,Privcy Policy runterladen,Download Privacy Policy,
+4.2d),profile.overview.domain.headline,Domain Übersicht,Domainoverview,
+4.2d),profile.overview.domain.button,Neue Domain erstellen,Register new Domain,
+4.2d),profile.overview.domain.text,Beschreibung der Domain,Domain decribtion,
+4.2d),profile.overview.domain.link1,Statistiken downloaden,Dowonload statistics,
+4.2d),profile.overview.domain.link2,Einstellungen zurücksetzen ,Reset settings,
+4.2d),profile.overview.domain.link3,Domain bearbeiten,Edit Domain,
+4.2e),profile.overview.votes.headline,Votes,Votes,
+4.2e),profile.overview.votes.link1,Alle Votes anzeigen ,Show all Votes,
+4.2e),profile.overview.votes.text,Auflistung Projekte,List of all Projects,
+4.2e),profile.overview.votes.link2,Gehe zum Projekt,Go to Project,
+4.2e),profile.overview.comments.headline,Abgegeben Kommentare ,Posted Comments,
+4.2e),profile.overview.comments.link,Alle Kommentare anzeigen ,Schow all Comments,
+4.2e),profile.overview.kommentare.text,Auflistung Projekte und Kommentare,List of Projects and Comments,
+4.2e),profile.overview.kommentare.link,Gehe zum Projekt,Go to project,
+4.2.1a),profile.aboutme.headline,Mein Porfil bearbeiten ,Edit proflie,
+4.2.1a),profile.aboutme.name,Name ,Name,
+4.2.1a),profile.aboutme.lastname,Nachname,Last name,
+4.2.1a),profile.aboutme.email,E-Mail Adresse,E-Mail,
+4.2.1a),profile.aboutme.passwordold,Altes Password,Previous Password,
+4.2.1a),profile.aboutme.password,Neues Passwaort,New Password,
+4.2.1a),profile.aboutme.repeatpassword,Passwort erneut eingeben,Re-enter new Password,
+4.2.1a),profile.aboutme.button,Spreichern ,Save,
+4.2.2),profile.project.headline,Projekte verwalten,Manage Projects,
+4.2.2),profile.project.overview.link1,Overview,Overview,
+4.2.2),profile.projects.profile.link,Profil bearbeiten ,Edit Profile,
+4.2.2),profile.projects.domains.link,Domains verwalten ,Manage Domains ,
+4.2.2),profile.projects.logout.link,Logout,Logout,
+4.2.2a),profile.project.overview.link2,Zur Projektansicht ,Go to Project,
+4.2.2a),profile.project.news.link,Neuigkeiten hinzufühgen ,Add News,
+4.2.2a),profile.project.edit.link,Projekt bearbeiten ,Edit Project,
+4.2.2a),profile.project.button,Neues Projekt einstellen ,Upload new Project,
+,profile.domain.claim.token.headline,Zuordnungs-Token benötigt,Claiming Token Required,
+,profile.domain.claim.token.text,Bitte geben Sie Ihren Zuordnungs-Token ein. Ihr Token besteht aus einer 64-stelligen Zahlen- und Buchstabenkombination.,"To claim your domain, please enter the your claiming token in the box below. The token is a 64 digit sequence of numbers and characters.",
+,profile.domain.claim.token.placeholder,Ihr Token,Your token,
+,profile.domain.claim.token.button,Domain zuordnen,claim domain,
+,profile.domain.claim.claiming.lookup,Token überprüfen ...,Validating your token ...,
+,profile.domain.claim.claiming.claiming,Domain zuordnen ...,Claiming your domain ...,
+,profile.domain.claim.success.headline,Glückwunsch! [[domain]] wurde erfolgreich verknüpft!,Congratulations! [[domain]] successfully claimed,
+,profile.domain.claim.success.text,Ihre Domain ist jetzt Ihrem Konto zugeordnet und kann in wenigen Schritten für das Mikrospendenprogramm aktiviert werden. So einfach geht's:,You just claimed your domain. See how easy it is to set up your domain for the microdonation program:,
+,profile.domain.claim.error.headline,Zuordnung fehlgeschlagen :-(,Domain Claim Failed :-(,
+,profile.domain.claim.error.text,Die Domain konnte Ihrem Konto nicht zugeordnet werden.,Your domain could not be claimed into your account.,
+,profile.domain.claim.error.button,Nochmal versuchen,try again,
+,profile.domain.claim.success.col2.headline,Warum konfigurieren?,Why set up?,
+,profile.domain.claim.success.col2.text,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula dui in bibendum placerat. Pellentesque pharetra quis erat vitae ullamcorper. Pellentesque sed erat quam.","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula dui in bibendum placerat. Pellentesque pharetra quis erat vitae ullamcorper. Pellentesque sed erat quam.",
+,profile.domain.claim.success.col2.link,Mehr erfahren,See more,
+,profile.domain.claim.success.col3.headline,Was muss ich beachten?,Rules and Regulations,
+,profile.domain.claim.success.col3.text,"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula dui in bibendum placerat. Pellentesque pharetra quis erat vitae ullamcorper. Pellentesque sed erat quam.","Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vehicula dui in bibendum placerat. Pellentesque pharetra quis erat vitae ullamcorper. Pellentesque sed erat quam.",
+,profile.domain.claim.success.col3.link,dotHIV Policy ansehen,See the dotHIV Policy,
+,profile.domain.success.button,Jetzt Domain einrichten,Set up now,
+4.2.2.1),project.adjust.project.link,Projekt verwalten,Manage Project,
+4.2.2.1),project.adjust.overview.link,Overview,Overview,
+4.2.2.1),project.adjust.profile.link,Profil bearbeiten,Edit Profile,
+4.2.2.1),project.adjust.domains.link,Domains verwalten,Manage Domains ,
+4.2.2.1),project.adjust.logout.link,Logout,Logout,
+4.2.2.1a),project.adjust.link1,Zurück zur  Projektverwaltung,Back to Project management,
+4.2.2.1b),project.adjust.headline.neues,Neues Projekt einstellen,Upload new Project,
+4.2.2.1b),project.adjust.wie.text,Wie stelle ich ein Projekt ein ,How to upload a new project,
+4.2.2.1b),project.adjust.video,,,
+4.2.2.1b),project.adjust.text,,,
+4.2.2.1b),project.adjust.download,dotHIV Policy ansehen,dotHIV Policy,
+4.2.2.1b),project.adjust.link2,Mindesststandards ansehen ,Eligibility criteria,
+4.2.2.1b),project.adjust.button,Jetzt Projekt einstellen,Upload Project now,
+4.2.2.2),project.adjust.contactperson.project.link,Projekte verwalten,Manage Project,
+4.2.2.2),project.adjust.contactperson.overview.link,Overview,Overview,
+4.2.2.2),project.adjust.contactperson.profile.link,Profil bearbeiten,Edit Profile,
+4.2.2.2),project.adjust.contactperson.domains.link,,,
+4.2.2.2),project.adjust.contactperson.logout.link,Logout,Logout,
+4.2.2.2a),project.adjust.contactperson.link,Zurück zur Projektverwaltung,Back to Project management,
+4.2.2.2b),project.adjust.contactperson.button1,Ansprechpartner,Contact Person,
+4.2.2.2c),project.adjust.contactperson.new.headline,Neues Projekt einstellen,Upload new Project,
+4.2.2.2c),project.adjust.contactperson.new.text,Bitte erweitern Sie Ihre Profiledaten,Please extend your profile data,
+4.2.2.2c),project.adjust.contactperson.new.download,dotHIV Policy ansehen,dotHIV Policy,
+4.2.2.2c),project.adjust.contactperson.name,Vorname,First name,
+4.2.2.2c),project.adjust.contactperson.lastname,Nachname,Last name,
+4.2.2.2c),project.adjust.contactperson.mail,E-Mail Adresse,E-mail,
+4.2.2.2c),project.adjust.contactperson.organisation,Organisation,Orgnization,
+4.2.2.2c),project.adjust.contactperson.country,Land,Country,
+4.2.2.2c),project.adjust.contactperson.adress,Straße/Hausnummer,Street address,
+4.2.2.2c),project.adjust.contactperson.countrycode,Postleitzahl,Country code,
+4.2.2.2c),project.adjust.contactperson.location,Ort,State,
+4.2.2.2c),project.adjust.contactperson.button2,Naechster Schritt ,Next step,
+4.2.2.3),project.adjust.project.link1,Projekte verwalten,Manage project,
+4.2.2.3),project.adjust.project.overview.link,Overview,Overview,
+4.2.2.3),project.adjust.project.profile.link,Profil bearbeiten,Edit profile,
+4.2.2.3),project.adjust.project.domains.link,Domains verwalten,Manage domain,
+4.2.2.3),project.adjust.project.logout.link,Logout,Logout,
+4.2.2.3a),project.adjust.project.link2,Zurück zur Projektverwaltung,Back to Project management,
+4.2.2.3b),project.adjust.project.button,Projekt ,Project,
+4.2.2.3c),project.adjust.project.new.headline,Neues Projekt einstellen,Upload new Project,
+4.2.2.3c),project.adjust.project.name,Name des Projekt,Name,
+4.2.2.3c),project.adjust.project.category,Funding Section,Funding section,
+4.2.2.3c),project.adjust.project.web,Webadresse des Projekt,Webaddress,
+4.2.2.3c),project.adjust.project.who,Ansprechpartner für das Projekt,Contact person,
+4.2.2.3c),project.adjust.project.mail,E-mail Adresse des Ansprechpartners,Email,
+4.2.2.3c),project.adjust.project.headline,In welchem Land findest das Projekt statt,Country of the project,
+4.2.2.3c),project.adjust.project.organisation,Organisation,Organization,
+4.2.2.3c),project.adjust.project.country,Land,Country,
+4.2.2.3c),project.adjust.project.address,Straße/Hausnummer,Street address,
+4.2.2.3c),project.adjust.countrycode,PLZ,Country code,
+4.2.2.3c),project.adjust.location,Ort,State,
+4.2.2.3c),project.adjust.project.back.button,Schritt zurueck,Previous step,
+4.2.2.3c),project.adjust.project.next.button,Naechster Schritt,Next step,
+4.2.2.4),project.adjust.projectinfos.link1,Projekte verwalten,Manage project,
+4.2.2.4),project.adjust.projectinfos.overview.link,Overview,Overview,
+4.2.2.4),project.adjust.projectinfos.profile.link,Profil bearbeiten,Edit profile,
+4.2.2.4),project.adjust.projectinfos.domains.link,Domains verwalten,Manage domain,
+4.2.2.4),project.adjust.projectinfos.logout.link,Logout,Logout,
+4.2.2.4a),project.adjust.projectinfos.link2,Zurück zur Projektverwaltung,Back to project,
+4.2.2.4b),project.adjust.projectinfos.button,Projektinfos,Project infomation,
+4.2.2.4c),project.adjust.projectinfos.new.headline,Neues Projekt einstellen,Upload new Project,
+4.2.2.4c),project.adjust.projectinfos.organisation,Über die Organisation*,About the organization,
+4.2.2.4c),project.adjust.projectinfos.headline,Projekttitel*,Project title*,
+4.2.2.4c),project.adjust.projectinfo.abstract,Projektbeschreibung*,Project dicribtion*,
+4.2.2.4c),project.adjust.projectinfos.upload,Bilder/Video hochladen,Upload pictures and videoa,
+4.2.2.4c),project.adjust.projectinfo.money,Benötigter Betrag,Amount needed,
+4.2.2.4c),project.adjust.projectinfos.lmoney.ink,Zum Währungsrecher,,
+4.2.2.4c),project.adjust.projectinfos.back.button,Schritt zurueck,Privious step,
+4.2.2.4c),project.adjust.projectinfos.next.button,Naechster Schritt,Next step,
+4.2.2.5),project.adjust.infos.link1,Projekte verwalten,Manage project,
+4.2.2.5),project.adjust.infos.overview.link,Overview,Overview,
+4.2.2.5),project.adjust.infos.profile.link,Profil bearbeiten,Edit profile,
+4.2.2.5),project.adjust.infos.domains.link,Domains verwalten,Manage domain,
+4.2.2.5),project.adjust.infos.logout.link,Logout,Logout,
+4.2.2.5a),project.adjust.infos.link2,Zurück zur Projektverwaltung,Back to project,
+4.2.2.5b),project.adjust.infos.button,News,News,
+4.2.2.5c),project.adjust.infos.new.headline,Neues Projekt einstellen,Upload new project,
+4.2.2.5c),project.adjust.infos.news,News,News,
+4.2.2.5c),project.adjust.infos.actionbox.headline,Überschrift ,,
+4.2.2.5c),project.adjust.infos.actionbox.text,Text,,
+4.2.2.5c),project.adjust.infos.actionbox.link,Link,,
+4.2.2.5c),project.adjust.infos.actionbox.upload,Datei hochladen,,
+4.2.2.5c),project.adjust.infos.actionboxsocialmedia,Social Media Intergartion,,
+4.2.2.5c),project.adjust.infos.actionbox.twitter,Twitter,,
+4.2.2.5c),project.adjust.info.actionbox.facebook,Facebook,,
+4.2.2.5c),project.adjust.infos.google,Google+,,
+4.2.2.5c),project.einstellung.infos.back.button,Schritt zurueck,,
+4.2.2.5c),project.einstellung.infos.next.button,Naechster Schritt,,
+4.2.2.6),project.adjust.finalize.link1,Projekt verwalten,,
+4.2.2.6),project.adjust.finalize.overview.link,overview,,
+4.2.2.6),project.adjust.finalize.profile.link,profile bearbeiten,,
+4.2.2.6),project.adjust.finalize.domains.link,Domains verwalten,,
+4.2.2.6),project.adjust.finalize.logout.link,Logout,,
+4.2.2.6a),project.adjust.finalize.link2,Zurück zur overview Projektverwaltung,,
+4.2.2.6b),project.adjust.finalize.button,Finalisieren,,
+4.2.2.6c),project.adjust.finalize.headline.new,Neues Projekte einstellen,,
+4.2.2.6c),project.adjust.finalize.headline.finish,Finalisierung,,
+4.2.2.6c),project.adjust.finalize.done,Dein Projekt kann nun abgeschickt werden,,
+4.2.2.6c),project.adjust.finalize.text,Blindtext 4.2.2.6c),,
+4.2.2.6c),project.adjust.finalize.now,schnellstmöglich freischalten (mit Kästchen zum ankreuze),,
+4.2.2.6c),project.adjust.finalize.nexttime,"zur nächsten Abstimmungsrunde am xx.xx freischalten (mit Kästchen zum ankreuzen)
+
+",,
+4.2.2.6c),project.adjust.finalize.preview.button,Vorschau,,
+4.2.2.6c),project.adjust.finalize.send.button,Abschicken ,,
+4.2.2.6d),project.adjust.finalize.alternativ.text,"Alternativ, falls noch nicht alle Felder ausgefüllt sind:",,
+4.2.2.6d),project.adjust.finalize.alternativ.new.headline,Neues project einstellen,,
+4.2.2.6d),project.adjust.finalize.missing,Finalisierung; Folgende Punkte müssen noch ausgefült werden,,
+4.2.2.7a),project.adjust.projectpreview.headline,projectvorschau,,
+4.2.2.7b),project.adjust.projectpreview.name,projectname,,
+4.2.2.7c),project.adjust.projectpreview.news,News/Update,,
+4.2.2.7d),project.adjust.projectpreview.projectcopy,Projekt copy,,
+4.2.2.7e),project.adjust.projectpreview.status,Status,,
+4.2.2.7f),project.adjust.projectpreview.characteristics,Steckbrief,,
+4.2.2.7g),project.adjust.projectpreview.share,Jetzt teilen ,,
+4.2.2.7h),project.adjust.projectpreview.actions,Aktionen,,
+4.2.2.7i),project.adjust.projectpreview.button,Fenster schließen,,
+4.2.2.8),project.adjust.finalize.link3,Projekt verwalten,,
+4.2.2.8),project.adjust.finalize.overview.link1,overview,,
+4.2.2.8),project.adjust.finalize.profile.link1,profile bearbeiten,,
+4.2.2.8),project.adjust.finalize.domains.link1,Domains verwalten,,
+4.2.2.8),project.adjust.finalize.logout.link1,Logout,,
+4.2.2.8a),project.adjust.finalize.link4,Zurück zur overview projectverwaltung,,
+4.2.2.8b),project.adjust.finalize.button1,Finalisieren,,
+4.2.2.8c),project.adjust.finalize.thankyou.headline,Danke fürs Einstellen,,
+4.2.2.8c),project.adjust.finalize.feedback.headline,Sie erhalten in Kuerze Feedback,,
+4.2.2.8c),project.adjust.finalize.feedback.text,Blindtext 4.2.2.8c),,
+4.2.2.8c),project.adjust.finalize.back.button,Zur Startseite,,
+4.2.3.1),domain.administer.welcome,"Glückwunsch! yxz.hiv wurde erfolgreich verknüpft! 
+Deine Domain ist jetzt deinem Konto zugeordnet. Jetzt kannst du sie in wenigen Schritten für das Mikrospenden-Programm aktivieren und dafür sorgen, dass jeder Klick auf deine .hiv Seite etwas Gutes tut! ",,
+4.2.3.1),domain.administer.link,Domains verwalten,,
+4.2.3.1),domain.administer.overview.link,overview,,
+4.2.3.1),domain.administer.profile.link,profile bearbeiten,,
+4.2.3.1),domain.administer.project.link,projects verwalten,,
+4.2.3.1),domain.administer.logout.link,Logout,,
+4.2.3.1a),domain.administer.back.link,Zurueck zur Domainoverview,,
+4.2.3.1b),domain.administer.headline.click,Click-Counter fuer meinedomain.hiv einrichten,,
+4.2.3.1b),domain.administer.click.text,Der Click Counter zeigt dem Besucher Ihrer .hiv Domain den gerade ausgeloesten Mikrobetrag und den bisher ausgeloesten Gesamtbetrag an. Und er kann noch mehr! Jetzt waehlen und konfigurieren - den jeder klick zählt!,,
+4.2.3.1c),domain.administer.click.about,Informationen ueber den Click-Counter,,
+4.2.3.1c),domain.administer.click.basic.button,Jetzt einrichten ,,
+4.2.3.1d),domain.administer.click.info,Informationen ueber den Click-Counter Premium,,
+4.2.3.1d),domain.administer.click.premium.button,Jetzt einrichten ,,
+4.2.3.1e),domain.administer.differentdoamain.headline,Sie moechten den Click-Counter basierent auf einer anderen Domain einrichten?,,
+4.3.2.1e),domain.administer.differentdoamain.text,Blindtext 4.3.2.1e),,
+4.3.2.1e),domain.erwalten.differentdomain.chose,Dropdownmenü: Auswahl der zu konfigurierenden .hiv Domain,,
+4.2.3.1e),domain.administer.button.now,Jetzt einrichten ,,
+4.2.3.1f),domain.administer.developer.headline,Click-Counter fuer Developer,,
+4.2.3.1f),domain.administer.developer.text,"Mit dem Click Counter Developer koennen Sie auf Ihrer .hiv Seite ein eigens Feedbacksystem einrichten. Jeder Klick auf Ihre .hiv Domain loest weiterhin eine Mikrospende aus - es wird aber kein Click Counter angezeigt. Was genau angezeigt wird, entscheiden Sie.",,
+4.2.3.1f),domain.administer.more.button,Mehr erfahren,,
+4.2.3.2.1),domain.administer.step1.link,Domains verwalten,,
+4.2.3.2.1),domain.administer.step1.overview.link1,overview,,
+4.2.3.2.1),domain.administer.step1.profile.link,profile bearbeiten,,
+4.2.3.2.1),domain.administer.step1.project.link,projects verwalten,,
+4.2.3.2.1),domain.administer.step1.logout.link,Logout,,
+4.2.3.2.1a),domain.administer.step1.overview.link,Zurueck zur Domainoverview,,
+4.2.3.2.1b),domain.administer.step1.button,Schritt 1,,
+4.2.3.2.1c),domain.administer.step1.config.headline,Standard Banner - Konfiguration ,,
+4.2.3.2.1c),domain.administer.step1.config.forwarding.home,Weiterleitungsziel,,
+4.2.3.2.1c),domain.administer.step1.config.forwarding.name,Zieldomain (mit Feld zum anklicken),,
+4.2.3.2.1c),domain.administer.step1.config.noforwarding,Ich möchte keine Weiterleitung,,
+4.2.3.2.1c),domain.administer.step1.config.language,In welcher Sprache soll der Banner angezeigt werden? (mit dropdown: deutsch; englisch),,
+4.2.3.2.1c),domain.administer.step1.back.button,Schritt zurueck,,
+4.2.3.2.1c),domain.administer.step1.next.button,Weiter ,,
+4.2.3.2.2),domain.administer.step2.link1,Domains verwalten,,
+4.2.3.2.2),domain.administer.step2.overview.link1,overview,,
+4.2.3.2.2),domain.administer.step2.profile.link,profile bearbeiten,,
+4.2.3.2.2),domain.administer.step2.project.link,projects verwalten,,
+4.2.3.2.2),domain.administer.step2.logout.link,Logout,,
+4.2.3.2.2a),domain.administer.step2.overview.link2,Zurueck zur Domainoverview,,
+4.2.3.2.2b),domain.administer.step2.button,Schritt 2,,
+4.2.3.2.2c),domain.administer.step2.config.headline,Standard Banner - Konfiguration,,
+4.2.3.2.2c),domain.administer.step2.config.design,Welcher Bannser soll den Besuchern bei deinem Besuch von xyz.hiv angezeigt werden?,,
+4.2.3.2.2c),domain.administer.step2.config.design2,Ab dem zweiten täglichen Besuch soll ein anderer Banner angezeigten werden (mit Fled zum anklicken),,
+4.2.3.2.2c),domain.administer.step2.back.button,Schritt zurueck,,
+4.2.3.2.2c),domain.administer.step2.save.button,Speichern,,
+4.2.3.2.3),domain.administer.finalize.link1,Domains verwalten,,
+4.2.3.2.3),domain.administer.finalize.overview.link1,Overview,,
+4.2.3.2.3),domain.administer.finalize.profile.link,profile bearbeiten,,
+4.2.3.2.3),domain.administer.finalize.project.link,projects verwalten,,
+4.2.3.2.3),domain.administer.finalize.logout.link,Logout,,
+4.2.3.2.3a),domain.administer.finalize.overview.link2,Zurueck zur Domainoverview,,
+4.2.3.2.3b),domain.administer.finalize.button1,Finalisieren,,
+4.2.3.2.3c),domain.administer.finalize.einstellung.text,Die Einstellung fuer audi.hiv wurden erfolgreich gespeichert!,,
+4.2.3.2.3c),domain.administer.finalize.activate,Aktivieren Sie nun die Anzeige Ihres Banners,,
+4.2.3.2.3c),domain.administer.finalize.opportunity1,Möglichkeit 1: Aktivieren bei dotHIV*,,
+4.2.3.2.3c),domainverwalten.finalisiereb.sternchen,nur möglich bei aktivierter Weiterleitung,,
+4.2.3.2.3c),domain.administer.finalize.moeglichkeit.text,Moeglichkeit 2: Code downloaden,,
+4.2.3.2.3c),domain.administer.finalize.download.button,Jetzt Downloaden,,
+4.2.3.2.3c),domain.administer.finalize.back.button,Schritt zurueck,,
+4.2.3.3.1),domain.administer.premium.step1.link1,Domains verwalten,,
+4.2.3.3.1),domain.administer.premium.step1.overview.link,overview,,
+4.2.3.3.1),domain.administer.premium.step1.profile.link,profile bearbeiten,,
+4.2.3.3.1),domain.administer.premium.step1.project.link,projects verwalten,,
+4.2.3.3.1),domain.administer.premium.step1.logout.link,Logout,,
+4.2.3.3.1a),domain.administer.premium.step1.overview.link1,Zurueck zur Domainoverview,,
+4.2.3.3.1b),domain.administer.premium.step1.button,Schritt 1,,
+4.2.3.3.1.c),domain.administer.premium.step1.config.headline,Premium Banner - Konfiguration ,,
+4.2.3.3.1.c),domain.administer.premium.step1.config.design,Welcher Bannser soll den Besuchern bei deinem Besuch von xyz.hiv angezeigt werden?,,
+4.2.3.3.1c),domain.administer.premium.step1.config.design2,Ab dem zweiten täglichen Besuch soll ein anderer Banner angezeigten werden (mit Fled zum anklicken),,
+4.2.3.3.1c),domain.administer.premium.step1.config.example.link,Beispiele anzeigen,,
+4.2.3.3.1c),domain.administer.premium.step1.back.button,Schritt zurueck,,
+4.2.3.3.1c),domain.administer.premium.step1.next.button,Weiter ,,
+4.2.3.3.2),domain.administer.premium.step2.link,Domains verwalten,,
+4.2.3.3.2),domain.administer.premium.step2.overview.link1,Overview,,
+4.2.3.3.2),domain.administer.premium.step2.profile.link,profile bearbeiten,,
+4.2.3.3.2),domain.administer.premium.step2.project.link,projects verwalten,,
+4.2.3.3.2),domain.administer.premium.step2.logout.link,Logout,,
+4.2.3.3.2a),domain.administer.premium.step2.overview.link,Zurueck zur Domainoverview,,
+4.2.3.3.2b),domain.administer.premium.step2.button,Schritt 2,,
+4.2.3.3.2c),domain.administer.premium.step2.config.headline,Premium Banner - Konfiguration,,
+4.2.3.3.2c),domain.administer.premium.step2.config.fowarding.home,Weiterleitungsziel,,
+4.2.3.3.2c),domain.administer.premium.step2.config.forwarding,Zieldomain (mit Feld zum anklicken),,
+4.2.3.3.2c),domain.administer.premium.step2.config.noforwardin,Ich möchte keine Weiterleitung,,
+4.2.3.3.2c),domain.verwaltung.premium.step2.language,In welcher Sprache soll der Banner angezeigt werden? (mit dropdown: deutsch; englisch),,
+4.2.3.3.2d),domain.verwaltung.premium.step2.main,Banner konfiguration,,
+4.2.3.3.2e),domain.verwaltung.premium.step2.back.button,Schritt zurück,,
+4.2.3.3.2f),domain.administer.premium.step2.back.pay.button,Zur Bezahlung,,
+4.2.3.3.3,domain.administer.premium.step3.link,Domains verwalten,,
+4.2.3.3.3,domain.administer.premium.step3.overview.link1,Overview,,
+4.2.3.3.3,domain.administer.premium.step3.profile.link,profile bearbeiten,,
+4.2.3.3.3,domain.administer.premium.step3.project.link,projects verwalten,,
+4.2.3.3.3,domain.administer.premium.step3.logout.link,Logout,,
+4.2.3.3.3a),domain.administer.premium.step3.overview.link,Zurueck zur Domainoverview,,
+4.2.3.3.3b),domain.administer.premium.step3.button,Schritt 3,,
+4.2.3.3.3c),domain.administer.premium.step3.headline,Domain xyz.hiv,,
+4.2.3.3.3c),domain.administer.premium.step.payment.headline,Premium Banner - Bezeahlung,,
+4.2.3.3.3c),domain.administer.premium.step.payment.who,Auftrag durch,,
+4.2.3.3.3c),domain.administer.premium.step3.payment.price,Kosten,,
+4.2.3.3.3c),domain.administer.premium.step3.payment.howto,Bezahlung,,
+4.2.3.3.3c),domain.administer.premium.step3.payment.card,"Wähle Kreditkarte (mit Dorpdown: VISA, MasterCard; American Express)",,
+4.2.3.3.3c),domain.administer.premium.step3.payment.cardnr,Kredikartennummer,,
+4.2.3.3.3c),domain.administer.premium.step3.payment.safety,Prüfnummer,,
+4.2.3.3.3c),domain.administer.premium.step3.payment.owner,Name auf der Karte,,
+4.2.3.3.3c),domain.administer.premium.step3.payment.paypal.butten,PayPal,,
+4.2.3.3.3c),domain.administer.premium.step3.back.link,Schritt zurück,,
+4.2.3.3.3c),domain.administer.premium.step3.next.link,Bezahlen und weiter,,
+4.2.3.3.4),domain.administer.premium.finalize.link,Domains verwalten,,
+4.2.3.3.4),domain.administer.premium.finalize.overview.link1,overview,,
+4.2.3.3.4),domain.administer.premium.finalize.profile.link,profile bearbeiten,,
+4.2.3.3.4),domain.administer.premium.finalize.project.link,projects verwalten,,
+4.2.3.3.4),domain.administer.premium.finalize.logout.link,Logout,,
+4.2.3.3.4a),domain.administer.premium.finalize.overview.link,Zurueck zur Domainoverview,,
+4.2.3.3.4b),domain.administer.premium.finalize.button,Finalisieren,,
+4.2.3.3.4c),domain.administer.premium.finalize.options.text,Die Einstellung fuer audi.hiv wurden erfolgreich gespeichert!,,
+4.2.3.3.4c),domain.administer.premium.finalize.activate,Aktivieren Sie nun die Anzeige Ihres Banners,,
+4.2.3.3.4c),domain.administer.premium.finalize.opportunity1,Möglichkeit 1: Aktivieren bei dotHIV*,,
+4.2.3.3.4c),domain.administer.premium.finalize.note,nur möglich bei aktivierter Weiterleitung,,
+4.2.3.3.4c),domain.administer.premium.finalize.opportunity2,Moeglichkeit 2: Code downloaden,,
+4.2.3.3.4c),domain.administer.premium.finalize.download.button,Jetzt Downloaden,,
+4.2.3.3.4c),domain.administer.premium.finalize.back.button,Schritt zurueck,,
+4.2.3.4.1),domain.administer.developer.link,Domains verwalten,,
+4.2.3.4.1),domain.administer.developer.overview.link1,overview,,
+4.2.3.4.1),domain.administer.developer.profile.link,profile bearbeiten,,
+4.2.3.4.1),domain.administer.developer.project.link,projects verwalten,,
+4.2.3.4.1),domain.administer.developer.logout.link,Logout,,
+4.2.3.4.1a),domain.administer.developer.overview.link,Zurueck zur Domainoverview,,
+4.2.3.3.1b),domain.administer.developer.counter.headline,Domain xyz.hiv,,
+4.2.3.4.1b),domain.administer.developer.counter.who,Click Counter für Developer,,
+4.2.3.4.1b),domain.administer.developer.counter.text,"Sie haben eine besondere Idee, wie Sie Ihre .hiv-Domain nutzen wollen oder wollen sich insperieren?",,
+4.2.3.4.1b),domain.administer.developer.counter.question,Ihre Frage/Bitte um Kontaktaufnahme,,
+4.2.3.4.1b),domain.administer.developer.counter.contact,E-Mail / Telefon,,
+4.2.3.3.1b),domain.administer.developer.button.send,Abschicken,,
+4.2.3.3.1b),domain.administer.developer.code.text,Code direkt downloaden,,
+4.2.3.3.1b),domain.administer.developer.button.download,Download,,
+4.2.3.3.1b),domain.administer.developer.back.button,Schritt zurueck,,
+5.2),home.help.headline,Hilfe,,
+5.2a),home.help.contact.headline,Kontakt,,
+5.2a),home.help.contact.press.headline,Presseanfragen,,
+5.2a),home.help.contact.press.text,Blindtext 5.2a Press,,
+5.2a),home.help.contact.job.headline,Jobanfragen ,,
+5.2a),home.help.contact.job.text,Blindtext 5.2a Job,,
+5.2a),home.help.contact.andere.headline,Andere Anfragen,,
+5.2a),home.help.contact.andere.text,Blindtext 5.2a Andere,,
+5.2b),home.help.contact.feedback.headline,Feedback zur Website,,
+5.2b),home.help.contact.feedback.text,Blindtext 5.2b Feedback,,
+5.2c),home.help.contact.address.headline,Anschrift ,,
+5.2c),home.help.contact.address.text,Blindtext 5.2c Anschrift,,
+5.2d),home.help.contact.impressum.headline,Impressum,,
+5.2d),home.help.contact.impressum.text,Blindtext 5.2d Impressum,,
+5.3),home.help.contact.use.headline,Nutzungsbedingungen ,,
+5.3a),home.help.contact.use.text,Blindtext 5.3a Nutzung,,
+5.3b),home.help.contact.data.headline,Datenschutz,,
+5.3b),home.help.contact.data.text,Blindtext 5.3b Daten,,

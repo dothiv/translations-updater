@@ -1,0 +1,6 @@
+{
+	"sites": {
+		"charity": "example/charity.csv",
+		"registry": "example/registry.csv"
+	}
+}

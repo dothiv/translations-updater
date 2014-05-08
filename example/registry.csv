@@ -1,0 +1,303 @@
+Wireframe-Seite,Code,Text Deutsch,Text Englisch,Link,Format,
+TLD.0 a.,gmbh.header.title,TLD dotHIV Registry GmbH,TLD dotHIV Registry GmbH,,Header Titel links neben Logo,
+TLD.0 a.,gmbh.header.config,Ihre .hiv Domain konfigurieren,Configer your .hiv domain,http://registry.enit.biz/#!/,Header-Navigation rechts 1,
+TLD.0 a.,gmbh.header.back,Zur dotHIV Initiative,The dotHIV Initiative,http://registry.enit.biz/#!/,Header-Navigation rechts 2,
+TLD.0 a.,gmbh.header.language,Deutsch,English,http://registry.enit.biz/#!/,Header-Navigation rechts 3 (Sprache wählen),
+TLD.0 b.,gmbh.menu.header1,Die .hiv Top Level Domain,The .hiv Top-Level Domain,http://registry.enit.biz/#!/,Überschrift Navigationsfeld,
+TLD.0 b.,gmbh.menu.policies,TLD Policies,TLD Policies,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 b.,gmbh.menu.launch,Launch Plan,Launch Plan,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 b.,gmbh.menu.whois,Whois/ Domainticker,Whois/ Domainticker,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 b.,gmbh.menu.registrars,.hiv für Registrare,.hiv for Registrars,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 b.,gmbh.menu.stats,Statistiken & Material,Stats & Downloads,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 c.,gmbh.menu.forcompanies,Ihre .hiv-Domain,Your .hiv domain,http://registry.enit.biz/#!/,Überschrift Navigationsfeld,
+TLD.0 c.,gmbh.menu.roteschleife,Die digitale Rote Schleife,The digital Red Ribbon,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 c.,gmbh.menu.registercharity,.hiv für die HIV-Arbeit,.hiv for the HIV response,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 c.,gmbh.menu.concepts,Best Practice,Best Practice,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 c.,gmbh.menu.registernow,.hiv-Domain registrieren,Get your .hiv domain,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 c.,gmbh.menu.domainconfig,Ihre .hiv Domain konfigurieren,Configuer your .hiv domain,http://registry.enit.biz/#!/,"Unterschrift Navigationsfeld
+Link führt zum Portal-Login ",
+TLD.0 d.,gmbh.menu.ourregistry,Unsere Registry,Our Registry,http://registry.enit.biz/#!/,Überschrift Navigationsfeld,
+TLD.0 d.,gmbh.menu.support,Unterstützer werden,Support dotHIV now!,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 d.,gmbh.menu.gmbh,Die TLD dotHIV Registry GmbH,The TLD dotHIV Registry GmbH,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 d.,gmbh.menu.icann,Ein Mitglied der Internet Community,A member of the global Internet Community,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 d.,gmbh.menu.team,Team und Jobs,Team and Jobs,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 d.,gmbh.menu.contact,Kontakt,Get in touch,http://registry.enit.biz/#!/,Unterschrift Navigationsfeld,
+TLD.0 e.,gmbh.home.aboutus.headline,Die .hiv Domain – Ihre digitale rote Aids-Schleife,The .hiv domain – Your digital Red Ribbon,http://registry.enit.biz/#!/,,
+TLD.0 e.,gmbh.home.aboutus.left,".hiv Domains sind digitale Rote Aids-Schleifen. Sie zeigen Solidarität mit dem internationalen Kampf gegen Aids und geben Webseitenbesuchern die Möglichkeit, mit einem Klick Gutes zu tun.","Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",http://registry.enit.biz/#!/,"normaler Text, Spalte links",
+TLD.0 e.,gmbh.home.aboutus.right,Denn für jeden Besuch auf einer Internetseite mit der Endung .hiv unterstützt dotHIV die Arbeit von HIV-Projekten auf der ganzen Welt.,"Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",http://registry.enit.biz/#!/,"normaler Text, spalte recht",
+TLD.0 f.,gmbh.home.latest.title,.hiv Domainticker,.hiv domain ticker,http://registry.enit.biz/#!/,Überschrift Domainticker,
+TLD.0.f,gmbh.home.latest.text,Diese .hiv-Domains wurden gerade registriert:,These domain names are just joining the .hiv family: ,,Eine Zeile Text über dem Ticker,
+TLD.0 g.,gmbh.home.companies.headline,.hiv Best Practice & Click Champions,.hiv Best Practice & Click Champions,http://registry.enit.biz/#!/,Überschrift Best Practice,
+,gmbh.home.companies.text,".hiv-Domains bieten unendliche Nutzungsmöglichkeiten. Hier finden Sie besonders innovative Ideen, sinnvolle Anwendungen und gelungene Wege. Lassen Sie sich inspirieren.",".hiv domains offer uncountable usage models. Come and browse through some of the most innovative ideas, useful applications and successful deployments. Get inspired!",http://registry.enit.biz/#!/,Einleitungstext zu den Best Practice,
+TLD.0 g.,gmbh.home.companies.all,Mehr anzeigen,Show more,http://registry.enit.biz/#!/,Link zu Best Practice Unterseite,
+TLD.0 h.,gmbh.home.charity.headline,Non-profit Domains für HIV-Organisationen,Non-profit Domains for the HIV response,http://registry.enit.biz/#!/,Überschrift Non-profit Domains,
+,gmbh.home.charity.all,Kostenlose Domain beantragen,Get your free non-profit domain,http://registry.enit.biz/#!/,Link zum Non-Profit Antrag,
+TLD.0 i.,gmbh.footer.slogan,.hiv - Building a web with a purpose,.hiv - Building a web with a purpose,http://registry.enit.biz/#!/,Slogan unterm Logo,
+,gmbh.footer.name,TLD dotHIV Registry GmbH,TLD dotHIV Registry GmbH,,,
+,gmbh.footer.street,Melchiorstraße 26,Melchiorstraße 26,,,
+,gmbh.footer.city,10179 Berlin ,10179 Berlin ,,,
+,gmbh.footer.navi.contact,Etwas melden,Report something,http://registry.enit.biz/#!/,,
+TLD.0 i.,gmbh.footer.navi.impressum,Impressum/Nutzungsbedingungen/Datenschutz,Imprint / Terms and Conditions / Data Security,http://registry.enit.biz/#!/,,
+TLD.1.1,gmbh.policies.headline,Policies,Policies,,Hauptüberschrift,
+TLD1.1 a.,gmbh.policies.text1,"Kurzes Intro, Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen.","Kurzes Intro, Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen.",,Textintro,
+TLD1.1 a.,gmbh.policies.launch.secondheadline,Policies zum Launch und zur Domainregistrierung,Launch and Registration Policies,,"Unterüberschrift, vgl. gmbh.concepts.thjnk",
+TLD1.1 a.,gmbh.policies.launch.text,"Kurzes Intro, Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Kurzes Intro, Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,Text ,
+TLD1.1 a.,gmbh.policies.launch.textbold1,1.0  GENERAL PROVISIONS         ,1.0  GENERAL PROVISIONS         ,,Zwischenüberschrift,
+TLD1.1 a.,gmbh.policies.launch.dropdown1,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.launch.expand1,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.launch.textbold2,2.0  SUNRISE RULES,2.0  SUNRISE RULES,,Zwischenüberschrift,
+TLD1.1 a.,gmbh.policies.launch.dropdown2,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.launch.expand2,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.launch.textbold3,3.0  GENERAL AVAILABILITY,,,,
+TLD1.1 a.,gmbh.policies.launch.dropdown3,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.launch.expand3,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.launch.textbold4,4.0  WHO IS Policy,4.0 WHO IS Policy,,,
+TLD1.1 a.,gmbh.policies.launch.dropdown4,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.launch.expand4,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.launch.textbold5,5.0   Regeln zu reservierten Namen und Premiumdomains,5.0 Reserved Names Policy,,,
+TLD1.1 a.,gmbh.policies.launch.dropdown5,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.launch.expand5,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.launch.link,Launch-Policies Herunterladen,Download Launch and Registration Policies,,PDF-Download,
+TLD1.1 a.,gmbh.policies.abuse.secondheadline,dotHIV Namensraum Policy zur Handhabung von Missbrauch und unangemessener Nutzung,dotHIV namespace policies for the mitigation of abuse and unacceptable use,,"Zwischenüberschrift, vgl. gmbh.concepts.thjnk",
+TLD1.1 a.,gmbh.policies.abuse.text,"Kurzes Intro, Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Kurzes Intro, Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,Text,
+TLD1.1 a.,gmbh.policies.abuse.graphic,Etwas melden,Report something,,"Graphik wie website-banner, auf der ""Etwas melden / Report something"" steht. Führt bei Klick / als Link zum Abuse Reporting Portal bzw. zum Launch zu einer automatisierten Email an abuse@dothiv-registry.net",
+TLD1.1 a.,gmbh.policies.abuse.textbold1,1.0 Markenschutz,1.0 Protect your Trademark,,Text fett,
+TLD1.1 a.,gmbh.policies.abuse.dropdown1,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.abuse.expand1,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.abuse.Link1,Herunterladen,Download now,,PDF-Download,
+TLD1.1 a.,gmbh.policies.abuse.textbold2,2.0 Domainmissbrauch,2.0 Abuse Policy,,Text fett,
+TLD1.1 a.,gmbh.policies.abuse.dropdown2,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.abuse.expand2,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.abuse.textbold3,3.0 Akzeptierte Nutzung,3.0 Acceptable Use Policy,,Text fett,
+TLD1.1 a.,gmbh.policies.abuse.dropdown3,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.abuse.expand3,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.abuse.textbold4,4.0 Weiterführende Maßnahmen,4.0 Additional Safeguards,,Text fett,
+TLD1.1 a.,gmbh.policies.abuse.dropdown4,> mehr lesen,> read more,,dropdown-link,
+TLD1.1 a.,gmbh.policies.abuse.expand4,"Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Paragraphen. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,dropdown-text,
+TLD1.1 a.,gmbh.policies.abuse.Link2,Herunterladen,Download now,,PDF-Download,
+TLD1.1 a.,gmbh.policies.RA.secondheadline,Das dotHIV Registry Agreement,The dotHIV Registry Agreement,,"Zwischenüberschrift, vgl. gmbh.concepts.thjnk",
+TLD1.1 a.,gmbh.policies.RA.text,"Wie bei jeder Top-Level Domain bildet auch bei .hiv das Registry Agreement mit ICANN die Grundlage für den Ver- und Betrieb der Domains. Bei dotHIV steht die gemeinnützige Leitorganisation der Initiative, der dotHIV gemeinnützige e.V., in diesem zentralen Vertragsverhältnis. Die dotHIV Registry managt das operative Geschäft im Auftrag des Vereins, ein Lizenzvertrag regelt das Geschäftsverhältnis.","Wie bei jeder Top-Level Domain bildet auch bei .hiv das Registry Agreement mit ICANN die Grundlage für den Ver- und Betrieb der Domains. Bei dotHIV steht die gemeinnützige Leitorganisation der Initiative, der dotHIV gemeinnützige e.V., in diesem zentralen Vertragsverhältnis. Die dotHIV Registry managt das operative Geschäft im Auftrag des Vereins, ein Lizenzvertrag regelt das Geschäftsverhältnis.",,Text,
+TLD1.1 a.,gmbh.policies.RA.link,Herunterladen,Download now,,Link zum ICANN-Post des RA,
+TLD 1.2 a.,gmbh.launch.headline,Launch Plan,,,Überschrift,
+TLD 1.2 a.,gmbh.launch.text1,"2008 hat die ICANN den Prozess zur Einführung neuer Top-Level Domains gestartet – knapp 6 Jahre später ist es soweit: mit .hiv kommt die digitale Rote Schleife ins Internet. Hier sind unsere finalen Schritte bis zum Go-Live.
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.","In 2008 ICANN introduced a new generation of Top-Level Domains- just over 6 years later, the realisation of the digital red ribbon is a fact. Here is a summary of our final steps until the Go-Live. Further behind,",,Text,
+TLD 1.2 a.,gmbh.launch.graphic,//Graphik//,,,"Graphik, vgl.  http://registry.enit.biz/#!/concepts",
+TLD 1.2 a.,gmbh.launch.text2,"Darunter folgt weiterer erklärender Text. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.",,,Text,
+TLD 1.2 a.,gmbh.launchurl1,Neue Domain bestellen,,,"Link, vgl. gmbh.concepts.thjnkurl ",
+TLD 1.2 a.,gmbh.launchurl2,Registrar werden,,,"Link, vgl. gmbh.concepts.thjnkurl",
+TLD 1.2 a.,gmbh.launchurl3,Launch Policies,,,"Link, vgl. gmbh.concepts.thjnkurl",
+TLD 1.3 a.,gmbh.whois.headline,.hiv Whois ,.hiv Whois,http://registry.enit.biz/#!/whois,Überschrift,
+TLD 1.3 a.,gmbh.whois.text1,"Diese kleine Fenster sagt Ihnen, ob Ihre Wunschdomain noch frei ist und wer der Inhaber einer bestimmten .hiv-Domain ist. Einfach ausprobieren: ","This little window will tell you, if the .hiv domain of your dreams is still free, and who is running any specific .hiv website out there. Go try it out:",http://registry.enit.biz/#!/whois,Text,
+TLD 1.3 a.,gmbh.whois.field,Domainname.hiv,Domainname.hiv,http://registry.enit.biz/#!/whois,"Suchfeld; darin Text: ""Domainname.hiv""",
+TLD 1.3 a.,gmbh.whois.latest,.hiv Domainticker,,http://registry.enit.biz/#!/whois,Überschrift,
+TLD.1.3.a,gmbh.whois.text2,Diese .hiv-Domains gingen gerade online:,These .hiv- Domains just went online:,http://registry.enit.biz/#!/whois,Text,
+,gmbh.whois.link1,ww.domain1.hiv,ww.domain1.hiv,,"Aufzählung der chronologisch letzten 5 .hiv Domains, die sich über unser Kundenportal den Clickcounter geladen haben daneben links kleine Computermäuse als Bulletpoints. Oder etwas ähnliches...",
+,gmbh.whois.link2,ww.domain2.hiv,ww.domain2.hiv,,,
+,gmbh.whois.link3,ww.domain3.hiv,ww.domain3.hiv,,,
+,gmbh.whois.link4,ww.domain4.hiv,ww.domain4.hiv,,,
+,gmbh.whois.link5,ww.domain5.hiv,ww.domain5.hiv,,,
+TLD.1.4.a,gmbh.registrars.headline,.hiv für Registrare,.hiv for registrars,,Hauptüberschrift,
+TLD.1.4.a,gmbh.registrars.text1,Mit der .hiv Top-Level Domain ergänzen Registrare ihr Portfolio um eine einzigartiges Domainprodukt. Hier lesen Sie die wichtigesten Infos zum .hiv-Vertrieb auf einen Blick und finden Informationen zum Thema On-Boarding und Zusammenarbeit.,"By offering the .hiv Top-Level Domain, registrars add a one of a kind domain product to their portfolio. Here, you can find key info on .hiv at a glance as well as more on on-boarding and cooperation.",,Text,vgl. http://www.startingdot.com/registrar-temp/registrar/
+TLD.1.4.a,gmbh.registrars.secondheadline1,In 5 Schritten zum .hiv Registrar,5 easy steps to on-boarding,,"Zwischenüberschrift, vgl. gmbh.concepts.thjnk",
+TLD.1.4.a,gmbh.registrars.text2,"Sie wollen Ihren Kunden die digitale Rote Schleife anbieten? Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.","You want to offer the digital Red Ribbon to your clients? Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.",,"Text
+",
+,gmbh.registrar.listnum1,"1. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.","1. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.",,Aufzählung: normaler Fließtext nach Nummerierungszahl,
+,gmbh.registrar.listnum2,"2. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.","2. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.",,Aufzählung: normaler Fließtext nach Nummerierungszahl,
+,gmbh.registrar.listnum3,"3. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.","3. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.",,Aufzählung: normaler Fließtext nach Nummerierungszahl,
+,gmbh.registrar.listnum4,"4. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.","4. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.",,Aufzählung: normaler Fließtext nach Nummerierungszahl,
+,gmbh.registrar.listnum5,"5. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.","5. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen. Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte beherrscht – ein geradezu unorthographisches Leben.",,Aufzählung: normaler Fließtext nach Nummerierungszahl,
+TLD.1.4.a,gmbh.registrars.field,,,,"Formularfeld, darin Text ""Email""",
+TLD.1.4.a,gmbh.registrars.button1,.hiv Infopaket anfordern,Get your .hiv info Package.,,Button mit Aufschrift,
+TLD.1.4.a,gmbh.registrars.link,Unsere Registrare,Our Registrars,,Link zu gmbh.jetztregistrieren,
+TLD.1.4.b,gmbh.registrars.secondheadline2,Registrar Login,Registrar Login,,Unterüberschrift,
+TLD.1.4.b,gmbh.registrars.text,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,Text,
+TLD.1.4.b,gmbh.registrars.button2,ORMS,ORMS,,Button mit Aufschrift und Link zum Afilias-Login,
+TLD.1.5.a,gmbh.stats.headline1,Statistiken und Berichte,Stats and Reports,,Überschrift,
+TLD.1.5.a,gmbh.stats.text1,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,Text,
+TLD.1.5.a,gmbh.stats.listbull,"Download Registrierungsreport 2014/1; 
+Download Registrierungsreport 2014/2","Download Registrierungsreport 2014/1; 
+Download Registrierungsreport 2014/2",,Liste mit hinterlegten PDF-Downloads,
+TLD.1.5.b,gmbh.stats.headline2,IDN-Infos,IDN-Infos,,Überschrift,
+TLD.1.5.b,gmbh.stats.text2,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.
+
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.
+
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,Text,
+TLD.1.5.b,gmbh.stats.link,Download IDN Table,Download IDN Table,,"Standard-Link, rechtsbündig",
+TLD.1.5.c,gmbh.stats.headline3,Zonefile Download,Zonefile Download,,Überschrift,
+TLD.1.5.c,gmbh.stats.text3,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,Text,
+TLD.1.5.c,gmbh.stats.button1,Download beantragen,Apply for access,,Button mit Aufschrift,"Leitet weiter zu einem Formular. Abfrage: Name, Vorname, Emailadresse, Organisation, Kurze Begründung."
+TLD.1.5.d,gmbh.stats.headline4,Logos und Kommuniationsmaterial,Logos and Communication Material,,Überschrift,
+TLD.1.5.c,gmbh.stats.text4,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,Text,
+TL,gmbh.stats.logos.left.text,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans",,In der Spalte wird linksbündig eine kleine Version des Logos dargestellt.,
+,gmbh.stats.logos.left.link,Download,Download,,"Standard-Link, rechtsbündig in der Spalte",
+,gmbh.stats.logos.right.text,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans",,In der Spalte wird linksbündig eine kleine Version des Fotos dargestellt.,
+,gmbh.stats.logos.right.link,Download,Download,,"Standard-Link, rechtsbündig in der Spalte",
+TLD.1.5.d,gmbh.stats.logos.list1.left,13.03.2014,"March 13, 2014",,Aufzählung,
+TLD.1.5.d,gmbh.stats.logos.list1.middle,Pressemitteilung Vertragsunterschrift,Press release Contract Signing,,Aufzählung,
+TLD.1.5.d,gmbh.stats.logos.list1.right,Download,Download,,mit PDF Download dahinter,
+TLD.1.5.d,gmbh.stats.logos.list2.left,//Datum,//Date,,Aufzählung,
+TLD.1.5.d,gmbh.stats.logos.list2.middle,Pressemitteilung xxyy,Press release xxyy,,Aufzählung,
+TLD.1.5.d,gmbh.stats.logos.list2.right,Download,Download,,mit PDF Download dahinter,
+TLD.2.1.a,gmbh.digitale.headline1,Die Idee hinter der .hiv Adresse ,The idea behind the .hiv domain,,Überschrift,
+TLD.2.1.a,gmbh.digitale.text1,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.
+
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.
+","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.
+
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.
+",,Text,
+TLD.2.1.a,gmbh.digitale.headline2,So funktioniert's,This is how it works,,Überschrift,
+TLD.2.1.a,gmbh.digitale.text2,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.
+
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.
+
+Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.",,Text,
+TLD.2.1.a,gmbh.digitale.graphik,Clickcounter-Graphik,Clickcounter-Graphik,,"Graphik, die den Clickcounter in Standard und Premium visualisiert",
+,gmbh.digitale.link1,Mehr erfahren auf dothiv.hiv,Learn more on dothiv.hiv,,Standardlink zum Community Portal,
+TLD.2.1.a,gmbh.digitale.headline3,Ihre Vorteile,Key advantages,,,
+TLD.2.1.a,gmbh.digitale.text3,"Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.","Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans. Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.",,,
+TLD.2.1.a,gmbh.advantage.left,//Vorteile für alle Unternehmen,//Vorteile für alle Unternehmen,,"Bild+Text-Items, siehe Wireframes, allerdings nur 1 Reihe.",
+TLD.2.1.a,gmbh.advantage.middle,Zielgruppengenaues Content-Marketing für ihr Firmenengagement im Feld HIV,Zielgruppengenaues Content-Marketing für ihr Firmenengagement im Feld HIV,,wenn nein: PDF-Downloads mit Salespitch dahinter legen,
+TLD.2.1.a,gmbh.advantage.right,//Vorteile für Medizinunternehmen,//Vorteile für Medizinunternehmen,,,
+TLD.2.1.a,gmbh.advantage.link,Hier geht's zu Ihrer .hiv Domain,Your .hiv domain - this way,,,
+TLD.2.1.a,gmbh.digitale.headline4,Ziele des Namensraums,,,,
+TLD.2.1.a,gmbh.digitale.text4,lorem ipsum,,,,
+TLD.2.1.a,gmbh.digitale.link,Mehr dazu auf stop.hiv,,,,
+TLD.2.2.a,gmbh.nonprofit.headline,.hiv für die HIV Arbeit,,,,
+,gmbh.nonprofit.text1a,Vorteile für HIV-Organisationen; Blindtext wieso das alles supersuper ist.,,,,
+,gmbh.nonprofit.secondheadline.what,Die kostenlose non-profit Domain,,,,
+TLD.2.2.a,gmbh.nonprofit.text1b,"Die .hiv non-profit Domain ist gleich im doppelten Sinne non-profit: Zum einen vergeben wir die Domain ausschließlich an non-profit Organisationen mit einem Schwerpunkt im Bereich HIV und Aids. Zum anderen ist die non-profit Domain für diese Organisationen kostenlos – die Kosten übernimmt dotHIV. Damit möchten wir Initiativen, die sich im Bereich HIV und Aids engagieren, einen gemeinsamen themengebundenen Raum im Internet geben. ","The .hiv non-profit Domain is non-profit in two ways: first and foremost, the Domain is exclusively awarded to non-profit Organizations whose focus point is HIV and AIDS. Moreover, the non-profit Domain is free for these Organizations- the cost of which is beared by dotHIV. The aim is to create a thematic network, through the Internet, of HIV and AIDS Intiatives.",,,
+,gmbh.nonprofit.dropdown.what,Mehr erfahren,,,,
+TLD.2.2a,gmbh.nonprofit.text2,"Mit der kostenlosen .hiv Domain wollen wir für Organisationen im Bereich HIV und Aids einen eigenen Platz im Internet schaffen. Durch die gemeinsame Nutzung dieses Platzes verstärkt sich die Wirkung des Einzelnen – durch die Entstehung besserer Sichtbarkeit und die Bildung eines globalen Netzwerkes.
+
+Die  Verwendung einer .hiv Domain verbessert die Suchmaschinenergebnisse und erhöht somit die Sichtbarkeit im Internet. Gleichzeitig erhöht ein gemeinsamer Namensraum die Transparenz über die Arbeit im Feld - sowohl für Internetuser als auch für Organisationen. Diesen wird eine einfache Möglichkeit gegeben, ein globales Netzwerk aufzubauen und das ganz ohne Kosten und intensive Bemühungen.
+
+Und last but not least: auch in die kostenlose non-profit Domain wird unser Mikrospendensystem integriert. Das heißt auch für diese Seiten gilt: Jeder Klick auf eine .hiv Domain löst eine Mikrospende aus, die an HIV Projekte überall auf der Welt weiter gegeben wird.
+
+"," .hiv non-profit Domain is non-profit in two ways: first and foremost, the Domain is exclusively awarded to non-profit Organizations whose focus point is HIV and AIDS. Moreover, the non-profit Domain is free for these Organizations- the cost of which is beared by dotHIV. The aim is to create a thematic network, through the Internet, of HIV and AIDS Intiatives.",,,
+TLD.2.2.a,gmbh.nonprofit.secondheadline.who,Wer kann sich um Charity-Domains bewerben?,,,,
+TLD.2.2.a,gmbh.nonprofit.text3,"Text: Non-profit Organisationen, die sich im Bereich HIV und Aids engagieren, können ihre eigene kostenlose .hiv non-profit  Domain bei uns beantragen. Dafür bitten wir euch lediglich, mit den dotHIV Grundlagen konform zu gehen.
+
+",,,,
+,gmbh.nonprofit.dropdown.who,Mehr erfahren,,,,
+TLD.2.2.a,gmbh.nonprofit.text4,"Dazu gehört, dass ihr mit uns für ein großes gemeinsames Ziel kämpft – das Ende von Aids! Aber bekanntermaßen ist ja auch der Weg schon das Ziel. Das heißt, uns interessiert auch, wie deine Organisation das Ziel erreichen will. Zeigt uns also, wer ihr seid, was ihr tut und warum ihr euch mit uns und unseren Leitlinien identifizieren könnt (Link zu den non-profit Domain Leitlinien).
+
+Außerdem bitten wir euch, eure .hiv Domain tatsächlich zu nutzen! Das Mindeste, das wir uns von euch wünschen, ist die Weiterleitung auf eure Standardhomepage. Aber natürlich sind individuelle Nutzungskonzepte sehr gerne gesehen. Nur durch die Nutzung erwacht der virtuelle Raum den wir bieten auch zum Leben!
+
+Habt ihr euren Antrag erfolgreich bei uns eingereicht, bekommt ihr die non-profit Domain zunächst für 3 Jahre, anschließend müsst ihr sie erneut beantragen.
+
+Findet sich deine Organisation in dieser Beschreibung wieder? Dann geht’s hier zu eurer ganz eignen kostenlosen .hiv Domain! 
+
+",,,,
+TLD.2.2.a,gmbh.nonprofit.button,"Verlinkung: Button “Jetzt bewerben”
+",,"Verlinkung: Button “Jetzt bewerben” führt zum Antragsformular für die .hiv non-profit Domain.
+
+",,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.headline,Jetzt bewerben,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.text1,"Nur noch wenige Schritte trennen Dich und Deine Organisation davon, Teil des .hiv-Online Netzwerks zu werden. Los geht’s",,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.secondheadline,Die Nutzungsbedingungen,,,,
+TLD.2.2a,gmbh.nonprofit.bewerbung.text2,"Die kostenlose non-profit .hiv Domain bekommt ihr unter drei Voraussetzungen:
+1. Ihr seid eine eingetragen non-profit Organisation die im Bereich HIV und Aids tätig ist.
+
+2. Ihr nutzt die Domain. Die Weiterleitung auf eure Standardseite ist völlig ausreichend, aber natürlich freuen wir uns auch über ganz individuelle Nutzungskonzepte.
+
+3. Der Inhalt eurer .hiv Seite spiegelt die Leitlinien und Grundsätze von dotHIV wider.
+
+Die kostenlose non-profit Domain bekommt ihr zunächst für 3 Jahre. Wenn ihr die Laufzeit gerne verlängern möchtet, müsst ihr lediglich 3 Monate vor Ablauf einen Verlängerungsantrag stellen. 
+Wenn ihr das nicht möchtet, endet die Laufzeit automaisch nach den drei Jahren.
+
+Wie immer bestätigen auch hier Ausnahmen die Regel und deshalb gibt es drei Fälle, bei denen der Ablauf ein bisschen anders aussieht.
+1. Wenn ihr die .hiv länger als drei Monate nicht nutzt, fangen wir an nachzufragen. Zunächst habt ihr in diesen Fall die Möglichkeit, einfach die reguläre Registrierungsgebühr für eure .hiv Domain zu zahlen. Falls auch das von euch nicht gemacht wird, nehmen wir die Domain vom Netzt und geben sie für anderer Bewerber wider frei.
+
+2. Ähnlich sieht der Prozess aus, falls Inhalte auf eurer .hiv Homepage auftauchen, die nicht widerspiegeln wofür dotHIV steht. Auch hier werden wir euch auffordern, für die Domain zu bezahlen oder in Zukunft auf die Nutzung zu verzichten. Für den Fall, dass eure .hiv Homepage über unser Abuse system bei uns gemeldet wird, ist auch ein direkter Take Down nicht ausgeschlossen.
+
+3. Vielleicht möchtet ihr ja die kostenlose Domain schon vor Ablauf der 3 Jahre nicht mehr haben (auch wenn wir bei dotHIV uns das nicht vorstellen können). Dann kündigt sie einfach rechtzeitig zum 30. November eines Jahres und ab dem Jahreswechsel ist der ganze .hiv Spaß für euch vorbei.
+
+Alles klar soweit? Dann füllt einfach die untenstehenden Fragen aus und los geht es mit eurer Domain!",,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.link1,dotHIV non-profit Leitlinien,,Link zu den Leitlinien (PDF?),,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.headline,Der Antrag,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.secondheadline,Wer seid ihr?,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field1,Name der Organisation:,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field2,Land: ,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field3,Straße/Hausnummer:,,,,
+,gmbh.nonprofit.bewerbung.antrag.field4, Ort/Postleitzahl:,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.upload1,Nachweis hier hochladen,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field5,Website/URL:,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field6,Gewünschte .hiv Domain*:,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field7,"Telefon- / Faxnummer:
+",,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.dropdown1,"In welchem Bereich arbeitet deine Organisation:                                                                                                                        Dropdown Menü zum anklicken: Aufklärung, Prävention, Pflege, Versorgung, Jugendarbeit, Onlinearbeit, Mutter-Kind-Übertragung, STIs, Stigmatisierung und Diskriminierung",,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.footnote,"Wir versuchen dir natürlich die Domain zu geben, die du möchtest. Überleg dir aber bitte auch schon mal eine Alternative, falls deine Wunsch-Domain schon vergeben ist.",,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.secondheadline2,"Wer ist unser Ansprechpartner?
+",,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field8,Name: Vorname:,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field9,E-Mail Adresse: ,,,,
+gmbh.nonprofit.bewerbung.antrag.field,gmbh.nonprofit.bewerbung.antrag.field10,Position:,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.secondheadline3,Was macht ihr?,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field11,Beschreibe deine Organisation und eure Arbeite (Mission und Vision) in max. 200 Wörtern,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.secondheadline4,Wie wollt ihr eure kostenlose .hiv Domain nutzen?,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.antrag.field12,Erkläre euer Nutzungskonzept in max. 200 Wörtern,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.agbs.headline,AGBs,Terms & Conditions,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.agbs.text,klickt auf den Link um die AGBs für deine dotHIV non-profit Domain zu lesen und stimmt ihnen anschließend zu,,,,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.agbs.link,AGBs,,,Hier steht der Link zu den AGBs,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.agbs.klick,,,,Hier gibt es ein Feld zum ankreuzen der AGBs,
+TLD.2.2.a1,gmbh.nonprofit.bewerbung.agbs.button,Absenden,,,Hier ist ein Button auf den man klickt um das Antragsformular abzusenden,
+TLD.2.2.a,gmbh.nonprofit.headline4,Bisher registrierte Non-profit Domains,,,,
+TLD.2.2.a,gmbh.nonprofit.text5,Blindtext,Domain,,,
+,gmbh.nonprofit.table.left,"Domain, Links",,,,
+,gmbh.nonprofit.table.right,"Organisation, Organisationsnamen",,,,
+TLD.2.3a,gmbh.concepts.headline,Best Practice,,http://registry.enit.biz/#!/concepts,,
+TLD.2.3.a,gmbh.concepts.desc,Das wünschen wir uns von best Practice Beispielen,,http://registry.enit.biz/#!/concepts,"Einführungstext, was wir toll finden ",
+TLD.2.3.b,gmbh.concepts.bsp1.title,thjnk.hiv,,,header,
+TLD.2.3.b,gmbh.concepts.bsp1.text,lorem ipsum,,,2 spalten: bild und text,
+TLD.2.3.b,gmbh.concepts.bsp1.url,zu thjnk.hiv,,,Link zur Beispielseite,
+TLD.2.3.b,gmbh.concepts.bsp2.title,bsp2.hiv,,,header,
+TLD.2.3.b,gmbh.concepts.bsp2.text,lorem ipsum,,,2 spalten: bild und text,
+TLD.2.3.b,gmbh.concepts.bsp2.url,zu bsp2.hiv,,,Link zur Beispielseite,
+TLD.2.3.b,gmbh.concepts.button,Neue Domain bestellen,,,,
+TLD.2.4.a,gmbh.registrieren.headline1,Ihr Weg zur eigenen .hiv Domain,,,,
+TLD.2.4.a,gmbh.registrieren.text1,lorem ipsum,,,,
+TLD.2.4.c,gmbh.registrieren.headline3,Was Sie bei der Registrierung beachten sollten,,,,
+TLD.2.4.c,gmbh.registrieren.text3,lorem ipsum,,,,
+TLD.2.4.d,gmbh.registrieren.headline4,Hier können Sie ihre Domain registrieren,,,,
+TLD.2.4.d,gmbh.registrieren.text4,lorem ipsum,,,,
+TLD.2.4.d,gmbh.registrieren.tabelle.left,Registrar,,,Tabelle mit Sortierfunktion,
+TLD.2.4.d,gmbh.registrieren.tabelle.middle,Land,,,,
+TLD.2.4.d,gmbh.registrieren.tabelle.right,Preis/Jahr,,,,
+TLD.3.1.a,gmbh.support.headline,Werden Sie Unterstützer,,,,
+TLD.3.1.a,gmbh.support.text,lorem ipsum,,,,
+TLD.3.1.a,gmbh.support.button,Weiter auf stop.hiv,,,,
+TLD.3.2.a,gmbh.registry.headline1,Organisation,,,,
+TLD.3.2.a,gmbh.registry.text1,lorem ipsum,,,,
+TLD.3.2.b,gmbh.registry.headline2,Investoren,,,,
+TLD.3.2.b,gmbh.registry.text2,lorem ipsum,,,,
+TLD.3.2.c,gmbh.registry.headline3,Gesellschaftervertrag,,,,
+TLD.3.2.c,gmbh.registry.text3,lorem ipsum,,,,
+TLD.3.2.c,gmbh.registry.link1,Gesellschaftervertrag herunterladen,,,,
+TLD.3.2.d,gmbh.registry.headline4,Geschäftsbericht,,,,
+TLD.3.2.d,gmbh.registry.text4,lorem ipsum,,,,
+TLD.3.2.d,gmbh.registry.link2,Geschäftsbericht herunterladen,,,,
+TLD.3.2.e,gmbh.registry.headline5,Mittelverwendung,,,,
+TLD.3.2.e,gmbh.registry.text5,lorem ipsum,,,,
+TLD.3.2.e,gmbh.registry.link,Mehr dazu herunterladen,,,,
+TLD.3.3.a,gmbh.stakeholder.headline1,dothiv in der Registry Stakeholder Group,,,,
+TLD.3.3.a,gmbh.stakeholder.text1,lorem ipsum,,,,
+TLD.3.3.b,gmbh.stakeholder.headline2,dothiv in Euralo,,,,
+TLD.3.3.b,gmbh.stakeholder.text2,lorem ipsum,,,,
+TLD.3.3.c,gmbh.stakeholder.headline3,Sonstige Mitgliedschaften,,,,
+TLD.3.3.c,gmbh.stakeholder.text3,lorem ipsum,,,,
+TLD.3.4.a,gmbh.team.headline1,Team,,,,
+TLD.3.4.a,gmbh.team.text1,lorem ipsum,,,,
+TLD.3.4.b,gmbh.team.headline2,Jobs,,,,
+TLD.3.4.b,gmbh.team.text2,lorem ipsum,,,,
+TLD.3.5.a,gmbh.kontakt.headline,Kontakt,,,,
+TLD.3.5.a,gmbh.kontakt.text,lorem ipsum,,,,
+TLD.3.5.a,gmbh.kontakt.ausfuellen.wer,Name,,,,
+TLD.3.5.a,gmbh.kontakt.ausfuellen.unternehmen,Unternehmen/Organisation,,,,
+TLD.3.5.a,gmbh.kontakt.ausfuellen.mail,E-Mail,,,,
+TLD.3.5.a,gmbh.kontakt.ausfuellen.hivadresse,Meine .hiv-Adresse,,,,
+TLD.3.5.a,gmbh.kontakt.ausfuellen.keine,Ich habe keine .hiv-Adresse,,,,
+TLD.3.5.a,gmbh.kontakt.ausfuellen.warum,Betreff,,,,
+TLD.3.5.a,gmbh.kontakt.ausfuellen.info,Nachricht,,,,
+TLD.3.5.a,gmbh.kontakt.button,Abschicken,,,,
