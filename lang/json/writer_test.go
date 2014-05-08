@@ -1,5 +1,5 @@
 //
-// Tests for LangWriter
+// Tests for JsonLangWriter
 //
 // Copyright 2014 TLD dotHIV Registry GmbH.
 // @author Markus Tacker <m@dotHIV.org>
