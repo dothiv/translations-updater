@@ -4,7 +4,7 @@
 // Copyright 2014 TLD dotHIV Registry GmbH.
 // @author Markus Tacker <m@dotHIV.org>
 //
-package csv_reader
+package csv
 
 import (
 	"os"
@@ -13,7 +13,7 @@ import (
 )
 
 func TestRead(t *testing.T) {
-	csvfile, _ := os.Open("./example/charity.csv")
+	csvfile, _ := os.Open("../example/charity.csv")
 	r := NewCsvFileReader(csvfile)
 	strings, err, _ := r.GetStrings("Code", "Text Deutsch")
 	if err != nil {

@@ -6,7 +6,7 @@
 // Copyright 2014 TLD dotHIV Registry GmbH.
 // @author Markus Tacker <m@dotHIV.org>
 //
-package csv_reader
+package csv
 
 import (
 	"encoding/csv"
