@@ -9,12 +9,14 @@
 package lang
 
 import (
+	"bufio"
 	"encoding/json"
 	"io"
 )
 
 // This is the main object
 type JsonLangWriter struct {
+	indent bool
 }
 
 func NewJsonLangWriter() (w *JsonLangWriter) {
@@ -24,7 +26,13 @@ func NewJsonLangWriter() (w *JsonLangWriter) {
 
 // Write strings to the target
 func (l *JsonLangWriter) WriteTo(str map[string]interface{}, target io.Writer) (err error) {
-	encoder := json.NewEncoder(target)
-	err = encoder.Encode(str)
+	if l.indent {
+		w := bufio.NewWriter(target)
+		b, _ := json.MarshalIndent(str, "", "    ")
+		w.Write(b)
+	} else {
+		encoder := json.NewEncoder(target)
+		err = encoder.Encode(str)
+	}
 	return
 }
