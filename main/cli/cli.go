@@ -13,6 +13,7 @@ import (
 	"fmt"
 	"github.com/dothiv/translations-updater/csv"
 	json "github.com/dothiv/translations-updater/lang/json"
+	util "github.com/dothiv/translations-updater/util"
 	"os"
 )
 
@@ -35,10 +36,16 @@ func main() {
 		os.Exit(1)
 	}
 
-	csvfile := open(*src)
+	os.Stdout.WriteString(fmt.Sprintf("Opening %s ...\n", *src))
+	csvfile, loadErr := util.LoadUri(*src)
+	if loadErr != nil {
+		os.Stderr.WriteString(loadErr.Error() + "\n")
+		os.Exit(1)
+	}
 	r := csv.NewCsvFileReader(csvfile)
 	str, err, errorStrings := r.GetStrings(*codeCol, *valCol)
 	if err != nil {
+		os.Stderr.WriteString(err.Error() + "\n")
 		for _, v := range errorStrings {
 			os.Stdout.WriteString(v.Msg)
 		}
@@ -48,6 +55,7 @@ func main() {
 	jsfile := openFile(*target, os.O_RDWR|os.O_TRUNC|os.O_CREATE, 0644)
 	w := json.NewJsonIndentLangWriter()
 	w.WriteTo(str, jsfile)
+	os.Stdout.WriteString(fmt.Sprintf("%s written.\n", *target))
 	return
 }
 
