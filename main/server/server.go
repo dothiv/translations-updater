@@ -1,7 +1,17 @@
+//
+// server bin
+//
+// Gets called by Google if the spreadsheets are updated
+//
+// Copyright 2014 TLD dotHIV Registry GmbH.
+// @author Markus Tacker <m@dotHIV.org>
+//
 package main
 
 import (
 	"encoding/json"
+	"fmt"
+	"github.com/dothiv/translations-updater/config"
 	"github.com/dothiv/translations-updater/server"
 	"net/http"
 	"os"
@@ -19,7 +29,7 @@ func main() {
 	}
 
 	decoder := json.NewDecoder(cfg)
-	configuration := server.Configuration{}
+	configuration := config.Configuration{}
 	cfg_err := decoder.Decode(&configuration)
 
 	if cfg_err != nil {
@@ -28,8 +38,13 @@ func main() {
 		os.Exit(1)
 	}
 
-	server := server.NewHookServer(configuration)
+	hookHandler := server.NewHookHandler(configuration)
 
-	http.Handle("/hook", server)
-	http.ListenAndServe(":8080", nil)
+	http.Handle("/hook", hookHandler)
+	os.Stdout.WriteString(fmt.Sprintf("Starting server at port %d ...\n", configuration.Port))
+	err = http.ListenAndServe(fmt.Sprintf(":%d", configuration.Port), nil)
+	if err != nil {
+		os.Stderr.WriteString(err.Error() + "\n")
+		os.Exit(1)
+	}
 }

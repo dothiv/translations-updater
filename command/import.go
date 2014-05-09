@@ -47,7 +47,7 @@ func (c *ImportCommand) Exec() (err error, errorStrings []csv.KeyError) {
 
 		w := json.NewJsonIndentLangWriter()
 		w.WriteTo(str, jsfile)
-
+		csvfile.Seek(0, 0)
 	}
 
 	return
