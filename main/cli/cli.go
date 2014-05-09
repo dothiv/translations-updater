@@ -12,17 +12,18 @@ import (
 	"flag"
 	"fmt"
 	"github.com/dothiv/translations-updater/command"
+	"github.com/dothiv/translations-updater/config"
 	"os"
 )
 
 func main() {
 	src := flag.String("source", "", "source CSV file")
-	target := flag.String("target", "", "target JSON file")
+	trgt := flag.String("target", "", "target JSON file")
 	codeCol := flag.String("code", "Code", "name of the code column")
 	valCol := flag.String("val", "Text Deutsch", "name of the value column")
 	flag.Parse()
 
-	if len(*target) == 0 {
+	if len(*trgt) == 0 {
 		os.Stderr.WriteString("target is required\n")
 		flag.Usage()
 		os.Exit(1)
@@ -35,7 +36,14 @@ func main() {
 	}
 
 	os.Stdout.WriteString(fmt.Sprintf("Opening %s ...\n", *src))
-	c := command.NewImportCommand(*src, *target, *codeCol, *valCol)
+	site := new(config.Site)
+	site.Source = *src
+	target := new(config.Target)
+	target.Code = *codeCol
+	target.Val = *valCol
+	target.Target = *trgt
+	site.Targets = append(site.Targets, target)
+	c := command.NewImportCommand(site)
 	err, errorStrings := c.Exec()
 	if err != nil {
 		os.Stderr.WriteString(err.Error() + "\n")
@@ -44,6 +52,6 @@ func main() {
 		}
 		os.Exit(1)
 	}
-	os.Stdout.WriteString(fmt.Sprintf("%s written.\n", *target))
+	os.Stdout.WriteString(fmt.Sprintf("%s written.\n", *trgt))
 	return
 }

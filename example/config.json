@@ -1,6 +1,45 @@
 {
+	"port": 25493,
 	"sites": {
-		"charity": "example/charity.csv",
-		"registry": "example/registry.csv"
+		"charity": {
+			"source": "example/charity.csv",
+			"targets": [
+				{
+					"code": "Code",
+					"val": "Text Deutsch",
+					"target": "charity-de.json"
+				},
+				{
+					"code": "Code",
+					"val": "Text Englisch",
+					"target": "charity-en.json"
+				},
+				{
+					"code": "Code",
+					"val": "Code",
+					"target": "charity-key.json"
+				}
+			]
+		},
+		"registry": {
+			"source": "example/registry.csv",
+			"targets": [
+				{
+					"code": "Code",
+					"val": "Text Deutsch",
+					"target": "registry-de.json"
+				},
+				{
+					"code": "Code",
+					"val": "Text English",
+					"target": "registry-en.json"
+				},
+				{
+					"code": "Code",
+					"val": "Code",
+					"target": "registry-key.json"
+				}
+			]
+		}
 	}
 }
