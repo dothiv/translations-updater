@@ -21,3 +21,9 @@ func NotNil(t *testing.T, item interface{}, what string) {
 		t.Errorf("Failed asserting that %s is not nil", what)
 	}
 }
+
+func Nil(t *testing.T, item interface{}, what string) {
+	if item != nil {
+		t.Errorf("Failed asserting that %s is nil", what)
+	}
+}

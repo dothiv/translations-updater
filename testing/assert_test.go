@@ -33,3 +33,15 @@ func TestNotNil(t *testing.T) {
 		t.Errorf("It should fail.")
 	}
 }
+
+func TestNil(t *testing.T) {
+	mockTest := new(testing.T)
+	Nil(mockTest, nil, "a")
+	if mockTest.Failed() {
+		t.Errorf("It should not fail.")
+	}
+	Nil(mockTest, "a", "a")
+	if !mockTest.Failed() {
+		t.Errorf("It should fail.")
+	}
+}
