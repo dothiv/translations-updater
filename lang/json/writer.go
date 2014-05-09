@@ -24,12 +24,19 @@ func NewJsonLangWriter() (w *JsonLangWriter) {
 	return
 }
 
+func NewJsonIndentLangWriter() (w *JsonLangWriter) {
+	w = NewJsonLangWriter()
+	w.indent = true
+	return
+}
+
 // Write strings to the target
 func (l *JsonLangWriter) WriteTo(str map[string]interface{}, target io.Writer) (err error) {
 	if l.indent {
 		w := bufio.NewWriter(target)
 		b, _ := json.MarshalIndent(str, "", "    ")
 		w.Write(b)
+		w.Flush()
 	} else {
 		encoder := json.NewEncoder(target)
 		err = encoder.Encode(str)

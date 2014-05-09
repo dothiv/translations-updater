@@ -13,17 +13,31 @@ import (
 	"testing"
 )
 
+// Test for JsonLangWriter
 func TestWriteFile(t *testing.T) {
-	w := NewJsonLangWriter()
 	str := make(map[string]interface{})
 	str["test"] = make(map[string]string)
 	str["test"].(map[string]string)["key"] = "value"
 	str["another"] = make(map[string]interface{})
 	str["another"].(map[string]interface{})["test"] = make(map[string]int)
 	str["another"].(map[string]interface{})["test"].(map[string]int)["key"] = 42
+
+	w := NewJsonLangWriter()
 	target := bytes.NewBufferString("")
 	w.WriteTo(str, target)
 	json := target.String()
-	ecpected := "{\"another\":{\"test\":{\"key\":42}},\"test\":{\"key\":\"value\"}}"
-	assert.Equals(t, ecpected, strings.TrimSpace(json))
+	expected := "{\"another\":{\"test\":{\"key\":42}},\"test\":{\"key\":\"value\"}}"
+	assert.Equals(t, expected, strings.TrimSpace(json))
+}
+
+// Test for indendet JsonLangWriter
+func TestWriteFileIndent(t *testing.T) {
+	str := make(map[string]interface{})
+	str["a"] = "b"
+	expected := "{\n    \"a\": \"b\"\n}"
+	w := NewJsonIndentLangWriter()
+	target := bytes.NewBufferString("")
+	w.WriteTo(str, target)
+	json := target.String()
+	assert.Equals(t, expected, strings.TrimSpace(json))
 }
