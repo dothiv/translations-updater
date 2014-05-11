@@ -12,6 +12,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/dothiv/translations-updater/config"
+	"github.com/dothiv/translations-updater/google"
 	"github.com/dothiv/translations-updater/server"
 	"net/http"
 	"os"
@@ -37,6 +38,9 @@ func main() {
 		os.Stdout.WriteString(cfg_err.Error())
 		os.Exit(1)
 	}
+
+	// Watch documents
+	google.WatchDocument("0AscJmfwzo_mPdHlYMkZRdG9MNGU4XzZpRXZsUW43clE", "token", "https://dothiv.a4a.de/hook")
 
 	hookHandler := server.NewHookHandler(configuration)
 
