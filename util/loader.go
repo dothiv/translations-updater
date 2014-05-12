@@ -7,6 +7,7 @@
 package util
 
 import (
+	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
@@ -39,6 +40,11 @@ func loadHttp(uri string) (l *os.File, err error) {
 	body, err = ioutil.ReadAll(response.Body)
 	defer response.Body.Close()
 	if err != nil {
+		return
+	}
+
+	if response.StatusCode != 200 {
+		err = fmt.Errorf("Failed to load '%s': %s", uri, body)
 		return
 	}
 
