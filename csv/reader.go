@@ -69,6 +69,9 @@ func (r *CsvFileReader) GetStrings(keyCol string, valCol string) (str map[string
 	str = make(map[string]interface{})
 	for _, v := range lines {
 		key := v[keyColIndex]
+		if key == "" {
+			continue
+		}
 		if !KEY_FORMAT.MatchString(key) {
 			e := NewKeyError(key, "The key \""+key+"\" is invalid. Please only use A-z, 0-9, dots for seperation and no numbers in the beginning or after dots.")
 			dataErrors = append(dataErrors, *e)

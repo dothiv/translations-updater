@@ -54,3 +54,9 @@ func TestOverlappingKey(t *testing.T) {
 	assert.Equals(t, dataErrors[0].Key, "the.key.overlaps.this")
 	assert.Equals(t, dataErrors[0].Msg, "A prefix of the key \"the.key.overlaps.this\" is already in use.")
 }
+
+func TestIgnoreEmptyKey(t *testing.T) {
+	r := NewCsvFileReader(strings.NewReader("key,de\nhas.key,Wert\n,Wert2"))
+	_, err, _ := r.GetStrings("key", "de")
+	assert.Nil(t, err, "GetStrings error")
+}
