@@ -55,6 +55,7 @@ func NewCsvFileReader(file io.Reader) (r *CsvFileReader) {
 // str["this"]["is"]["a"]["key"] = "value"
 func (r *CsvFileReader) GetStrings(keyCol string, valCol string) (str map[string]interface{}, err error, dataErrors []KeyError) {
 	reader := csv.NewReader(r.file)
+	reader.TrailingComma = true
 	keyColIndex, valColIndex, colError := r.getColIndex(reader, keyCol, valCol)
 	if colError != nil {
 		err = colError
