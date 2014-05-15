@@ -60,3 +60,9 @@ func TestIgnoreEmptyKey(t *testing.T) {
 	_, err, _ := r.GetStrings("key", "de")
 	assert.Nil(t, err, "GetStrings error")
 }
+
+func TestTrimKeyWhiteSpace(t *testing.T) {
+	r := NewCsvFileReader(strings.NewReader("key,de\n has.key.with.space.around ,Wert\n,Wert2"))
+	_, err, _ := r.GetStrings("key", "de")
+	assert.Nil(t, err, "GetStrings error")
+}

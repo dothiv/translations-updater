@@ -68,7 +68,7 @@ func (r *CsvFileReader) GetStrings(keyCol string, valCol string) (str map[string
 	}
 	str = make(map[string]interface{})
 	for _, v := range lines {
-		key := v[keyColIndex]
+		key := strings.TrimSpace(v[keyColIndex])
 		if key == "" {
 			continue
 		}
