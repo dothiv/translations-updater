@@ -11,6 +11,7 @@ import (
 	"github.com/dothiv/translations-updater/config"
 	"github.com/dothiv/translations-updater/csv"
 	json "github.com/dothiv/translations-updater/lang/json"
+	yaml "github.com/dothiv/translations-updater/lang/yaml"
 	"github.com/dothiv/translations-updater/util"
 	"os"
 )
@@ -45,8 +46,16 @@ func (c *ImportCommand) Exec() (err error, errorStrings []csv.KeyError) {
 		jsfile, err = os.OpenFile(target.Target, os.O_RDWR|os.O_TRUNC|os.O_CREATE, 0644)
 		defer jsfile.Close()
 
-		w := json.NewJsonIndentLangWriter()
-		w.WriteTo(str, jsfile)
+		switch target.Format {
+		case "yaml":
+			w := yaml.NewYamlLangWriter()
+			w.WriteTo(str, jsfile)
+			break
+		default:
+			w := json.NewJsonIndentLangWriter()
+			w.WriteTo(str, jsfile)
+		}
+
 		csvfile.Seek(0, 0)
 	}
 

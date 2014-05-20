@@ -19,6 +19,7 @@ type Target struct {
 	Code   string `json:"code"`
 	Val    string `json:"val"`
 	Target string `json:"target"`
+	Format string `json:"format"`
 }
 
 type Configuration struct {

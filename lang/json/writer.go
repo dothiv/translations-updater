@@ -1,12 +1,12 @@
 //
-// LangWriter
+// JsonLangWriter
 //
 // Used to write our JSON lang files.
 //
 // Copyright 2014 TLD dotHIV Registry GmbH.
 // @author Markus Tacker <m@dotHIV.org>
 //
-package lang
+package json
 
 import (
 	"bufio"

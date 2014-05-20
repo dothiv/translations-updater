@@ -45,3 +45,27 @@ func TestNil(t *testing.T) {
 		t.Errorf("It should fail.")
 	}
 }
+
+func TestTrue(t *testing.T) {
+	mockTest := new(testing.T)
+	True(mockTest, true, "a")
+	if mockTest.Failed() {
+		t.Errorf("It should not fail.")
+	}
+	True(mockTest, false, "a")
+	if !mockTest.Failed() {
+		t.Errorf("It should fail.")
+	}
+}
+
+func TestFalse(t *testing.T) {
+	mockTest := new(testing.T)
+	False(mockTest, false, "a")
+	if mockTest.Failed() {
+		t.Errorf("It should not fail.")
+	}
+	False(mockTest, true, "a")
+	if !mockTest.Failed() {
+		t.Errorf("It should fail.")
+	}
+}

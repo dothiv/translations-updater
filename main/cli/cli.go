@@ -18,7 +18,8 @@ import (
 
 func main() {
 	src := flag.String("source", "", "source CSV file")
-	trgt := flag.String("target", "", "target JSON file")
+	trgt := flag.String("target", "", "target file")
+	frmt := flag.String("format", "json", "target file format (json, yaml)")
 	codeCol := flag.String("code", "Code", "name of the code column")
 	valCol := flag.String("val", "Text Deutsch", "name of the value column")
 	flag.Parse()
@@ -42,6 +43,7 @@ func main() {
 	target.Code = *codeCol
 	target.Val = *valCol
 	target.Target = *trgt
+	target.Format = *frmt
 	site.Targets = append(site.Targets, target)
 	c := command.NewImportCommand(site)
 	err, errorStrings := c.Exec()

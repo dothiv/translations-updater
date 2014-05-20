@@ -27,3 +27,15 @@ func Nil(t *testing.T, item interface{}, what string) {
 		t.Errorf("Failed asserting that %s is nil", what)
 	}
 }
+
+func True(t *testing.T, item bool, what string) {
+	if item != true {
+		t.Errorf("Failed asserting that %s is true", what)
+	}
+}
+
+func False(t *testing.T, item bool, what string) {
+	if item != false {
+		t.Errorf("Failed asserting that %s is false", what)
+	}
+}

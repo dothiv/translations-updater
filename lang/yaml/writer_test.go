@@ -1,10 +1,10 @@
 //
-// Tests for JsonLangWriter
+// Tests for YamlLangWriter
 //
 // Copyright 2014 TLD dotHIV Registry GmbH.
 // @author Markus Tacker <m@dotHIV.org>
 //
-package json
+package yaml
 
 import (
 	"bytes"
@@ -13,7 +13,7 @@ import (
 	"testing"
 )
 
-// Test for JsonLangWriter
+// Test for YamlLangWriter
 func TestWriteFile(t *testing.T) {
 	str := make(map[string]interface{})
 	str["test"] = make(map[string]string)
@@ -22,22 +22,10 @@ func TestWriteFile(t *testing.T) {
 	str["another"].(map[string]interface{})["test"] = make(map[string]int)
 	str["another"].(map[string]interface{})["test"].(map[string]int)["key"] = 42
 
-	w := NewJsonLangWriter()
+	w := NewYamlLangWriter()
 	target := bytes.NewBufferString("")
 	w.WriteTo(str, target)
-	json := target.String()
-	expected := "{\"another\":{\"test\":{\"key\":42}},\"test\":{\"key\":\"value\"}}"
-	assert.Equals(t, expected, strings.TrimSpace(json))
-}
-
-// Test for indendet JsonLangWriter
-func TestWriteFileIndent(t *testing.T) {
-	str := make(map[string]interface{})
-	str["a"] = "b"
-	expected := "{\n    \"a\": \"b\"\n}"
-	w := NewJsonIndentLangWriter()
-	target := bytes.NewBufferString("")
-	w.WriteTo(str, target)
-	json := target.String()
-	assert.Equals(t, expected, strings.TrimSpace(json))
+	yaml := target.String()
+	expected := "another:\n  test:\n    key: 42\ntest:\n  key: value"
+	assert.Equals(t, expected, strings.TrimSpace(yaml))
 }
