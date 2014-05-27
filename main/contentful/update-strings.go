@@ -13,7 +13,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/dothiv/contentful/model"
+	"github.com/dothiv/translations-updater/contentful/model"
 	"io/ioutil"
 	"net/http"
 	"os"
